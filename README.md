@@ -47,7 +47,7 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
 | Raspberry PI Zero Minimal Kit 30                               | 29.90        | https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit                                    |
-| <span style="color:red">Adafruit SGP30 Sensor - Wird geändert vll. auf SCD30</span>                                          | 30           | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
+| ```html <span style="color:red">Adafruit SGP30 Sensor - Wird geändert vll. auf SCD30</span> ```                                          | 30           | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
 | Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung) | 7            | mikroshop.ch                                                                              |
 | Steckernetzteil                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | USB hub (um Keyboard und Maus anzuschliessen)                  | 13.90        | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
