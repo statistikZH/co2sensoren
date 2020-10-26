@@ -1,10 +1,10 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das BAG rät bezüglich des neuen Coronavirus zum häufigen Lüften: "Wenn sich mehrere Personen im selben Raum aufhalten, kann gründliches und regelmässiges Lüften das Ansteckungsrisiko reduzieren" ([Siehe Webseite des BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-den-alltag.html)). Im Mittelpunkt der folgenden Idee, steht die CO2-Messung in Räumen und ein automatisierter Alarm/Anzeige, welche zum lüften aufrufrt, wenn der CO2-Gehalt eine gewisse Schwelle überschreitet. Insbesondere Schulräume mit vielen Teilnehmenden macht eine gute Belüftung unabdingbar - eigentlich tut eine gute Lüftung den Köpfen ja auch ausserhalb von Pandemien gut! ([Auch hier siehe BAG](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html) aber auch [zur Müdigkeit hier](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html))
+Das BAG rät bezüglich des neuen Coronavirus zum häufigen Lüften: "Wenn sich mehrere Personen im selben Raum aufhalten, kann gründliches und regelmässiges Lüften das Ansteckungsrisiko reduzieren" ([Siehe Webseite des BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-den-alltag.html)). Im Mittelpunkt der folgenden Idee, steht die CO2-Messung in Räumen und ein automatisierter Alarm, welches zum lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist. Insbesondere in Schulräume mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar: eigentlich tut eine gute Lüftung den Köpfen auch ausserhalb von Pandemien gut! ([Siehe BAG](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html) aber auch [zur Müdigkeit hier](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html))
 
-Nun könnte man den Schulen raten fertige CO2-Messgeräte zu kaufen. Eine Liste von fertigen Geräten befindet sich auch weiter unten und es gibt Geräte, die sind gar nicht mal so teuer!
+Nun gibt es zwei Optionen. Einerseits können Schulen betriebsbereite CO2-Messgeräte kaufen. Eine Liste von solchen Geräten befindet sich am Ende dieses Dokuments. Die Preise sind auch gar nicht mal so teuer.
 
-Aber folgend wird eine Lösung vorgestellt, um die CO2-Sensore in den Schulen (mit uns zusammen oder nach Anleitung) selbst zu bauen. Denn, die Wirkung von:
+Folgend wird aber eine alternative Option vorgestellt, um die CO2-Sensoren in den Schulen mit uns gemeinsam oder nach Anleitung selbst zu bauen. Denn, die Wirkung von:
 - selber bauen
 - selber programmieren
 - eigene Daten erheben
@@ -15,43 +15,14 @@ hat neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die 
 - die Messerwerte werden mehr beachtet 
 - es wird mehr gelüftet
 
-Insgesamt sehen wir somit folgende Vorteile:
-- Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. 
-- Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind.
-- Schulen können sich durch diese Do-It-Yourself-Methode weitere Vorteile erschaffen. Dazu gehören praxisnahe Anwendungen in IoT/Physik, Programmierung (Stichwort (data literacy)[https://www.data-literacy.ch/]); Statistik (Stichwort statistical literacy).
-- Diese angewandte Problemstellung von Programmierung und Statistik führt dazu, dass reale Beispiele verwendet werden, statt fiktive. Beispielsweise lässt sich eine Datensammlung programmieren, die CO2-Werte bei offenemen und geschlossenem Fenster misst. Sind die Werte bei offeneme Fenster anders? Auch wenn diese Hypothese sehr banal ist, so können die SchülerInnen diese mit den eigenen Daten testen und Statistik somit fassbarer machen.
-- Theoretisch lassen sich mehrere CO2-Sensoren auch zentral oder von der ferne beobachten - möglicherweise relevant wenn in einigen Räumen der CO2-Gehalt höher ist als in anderen. Die Daten der meisten CO2-Messgeräte im Handel können nicht weiterverwendet werden (z.B. von der Ferne). 
+Diese Do-It-Yourself-Methode kann aber auch genutzt werden um neben IoT/Physik auch praxisnahe Anwendungen in Programmierung (Stichwort (data literacy)[https://www.data-literacy.ch/]) und Statistik (Stichwort statistical literacy) näher zu bringen. Dadurch können reale Statistik- und Programmierbeispiele verwendet werden. Beispielsweise kann man die Daten bei offenem und geschlosenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
 
+Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFI werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
 
-# Infos zu Sensoren
-
-Es gibt eine wichtige Unterscheidung zwischen verschiedenen Arten von Sensoren. Einige sind günstiger und schätzen nur den CO2-Anteil, während andere den echten CO2-Anteil messen. Gegenüberstellungen haben gezeigt, dass aber für nicht-genaue Zwecke die Schätzapplikationen dennoch relativ gute Resultate ergeben.
-
-https://learn.kaiterra.com/en/air-academy/carbon-dioxide-sensors
-
-1) Metal-Oxid-Lösungen (MOX)
-
-Diese gehören zu den günstigsten Lösungen. Messen nicht CO2 sondern Teilchen in der Luft durch die veränderte Leitungsspannung auf einem Plättchen. Die CO2-Teilchen werden somit geschätzt. BRaucht einige Minuten Anpassung. Wird durch Luftfäuchtigkeit und Temperatur beeinflusst und muss immer wieder angepasst werden.
-
-
-2) NDIR: Non-Dispersive Infrared Sensors:
-
-Messen mit gewissen Wellenspektren das Licht nach CO2-Gehalt. Viel genauer. Im Idealfall schaffen sich Schulen diese Art von Sensoren an.
-
-
-3) Biochemische Sensoren
-
-Das sind die genauesten Sensoren, die tatsächlich biochemisch das CO2 messen.
-
-
-Fazit:
-
-Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist günstiger und gibt in einigen Fällen eine überraschend gute Messung. NDIR vermittelt den SchülerInnen genauere Messwerte (echte Messwerte statt Schätzungen).
-
-
+Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind (siehe weiter unten).
 
 # Kostenübersicht und Alternativen
-
+Dieser Abschnitt ist momentan im Aufbau. 
 
 ## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE4 - nach Markus Leutwyler
 
@@ -130,11 +101,32 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 | TOTAL                                                                  | 119.60 (101.60 mit Gehäuse) |                                                                                           |
 
   
+# Infos zu Sensoren
+
+Es gibt eine wichtige Unterscheidung zwischen verschiedenen Arten von Sensoren. Einige sind günstiger und schätzen nur den CO2-Anteil, während andere den echten CO2-Anteil messen. **Um ein kurzes und verständliches Fazit vorwegzunehmen: Wir empfehlen den Schulen Sensoren mit NDIR (Non-Dispersive Infrared Sensors) und raten von MOX-Lösungen ab, die ungenau sind und lange Kalibrierungen brauchen**. 
+
+Und nun die (längere Erklärung)[https://learn.kaiterra.com/en/air-academy/carbon-dioxide-sensors] zu den drei Arten von Sensoren:
+
+1) Metal-Oxid-Lösungen (MOX)
+
+Diese sind günstigsten Sensoren. Sie messen nicht CO2 sondern Teilchen in der Luft durch die veränderte Leitungsspannung auf einem Plättchen. Die CO2-Teilchen werden somit geschätzt (auch eCO2 genannt, da "estimated CO2"). In eigenen Tests mit dem SGP30-Sensor haben wir herausgefunden, dass die Kalibrierung sehr lange dauern kann und die Werte sehr ungenau sind. Zusätzlich wird der Sensor stark durch Luftfäuchtigkeit und Temperatur beeinflusst und muss immer wieder angepasst werden.
+
+
+2) NDIR: Non-Dispersive Infrared Sensors:
+
+Hier messen die Sensoren mit gewissen Wellenspektren das Licht nach CO2-Gehalt. Diese Methode ist viel genauer und nur geringfügig teurer als MOX. Wir empfehlen den Schulen diese Art von Sensoren an.
+
+
+3) Biochemische Sensoren
+
+Das sind die genauesten Sensoren, die biochemisch, und somit sehr exakt, das CO2 in der Luft messen. Diese sind aber deutlich teurer und für solche Anwendungen wie hier ungeeignet.
 
   
-## Kauf von Einzelgeräten
+# Kauf von Einzelgeräten
   
+Falls Sie keine Sensoren selbst bauen möchten, können Sie in der folgenden Liste nach betriebsbereiten Geräten schauen. Folgend werden zunächst geeignete Anbieter aufgelistet. Geeignet bedeutet für uns, dass NDIR-Sensoren verwendet werden und die Preise relativ günstig sind. Weiter unten ist dann eine schwarze Liste mit Anbietern, die entweder die schlechteren MOX-Sensoren verwenden, oder die keine Angaben zu den Sensoren schreiben (und wir somit MOX vermuten), oder die viel teurer sind.
 
+## Gute Liste von betriebsbereiten CO2-Geräten
 
 |                              Anbieter                              | Kosten (siehe jeweils CHF oder EUR) |                                               PROs                                              |                                             CONs                                             |                                                                                                                                                                                                             Link                                                                                                                                                                                                            |
 |:------------------------------------------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -147,3 +139,10 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 | epulse ee80                                                        | 227 EUR                             |                                                                                                 | teuer                                                                                        | https://eu-shop.epluse.com/collections/ee800                                                                                                                                                                                                                                                                                                                                                                                |
 | Kkmoon                                                             | 25 EUR (plus Lieferung)             | Super günstig!                                                                                  | NOX-Sensor, da keine ANgaben                                                                 | https://www.amazon.de/KKmoon-Luftqualit%C3%A4t-Messger%C3%A4te-Kohlendioxid-Gasanalysator/dp/B07ZVQYPTJ/ref=sr_1_1_sspa?dchild=1&keywords=co2%2Bmessger%C3%A4t&qid=1603093161&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRNDVQSzJKTFNVVkwmZW5jcnlwdGVkSWQ9QTAxNzg1NjIyN0IzSFdDUTlPRUw2JmVuY3J5cHRlZEFkSWQ9QTA4ODI4MTUxVUcxN1k5T0MxN1RMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1 |
 | Faraone4w                                                          | 30EUR (plus Lieferung)              | Super günstig                                                                                   | NOX-Sensor da keine ANgaben                                                                  | https://www.amazon.de/Luftqualit%C3%A4t-Kohlendioxid-Intelligenter-Temperatur-Feuchtigkeits-Anzeige-Gaskonzentration/dp/B08KXSQJD7/ref=sr_1_8?dchild=1&keywords=co2%2Bmessger%C3%A4t&qid=1603093161&sr=8-8&th=1                                                                                                                                                                                                             |
+
+## Schlechte Liste von betriebsbereiten CO2-Geräten
+
+|                              Anbieter                              | Kosten (siehe jeweils CHF oder EUR) |                                               PROs                                              |                                             CONs                                             |                                                                                                                                                                                                             Link                                                                                                                                                                                                            |
+|:------------------------------------------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| TFA Dostmann AIRCO2NTROL MINI Kohlendioxid-Messgerät 0 - 3000 ppm  | 98                                  | Günstig                                                                                         | Sagt NIRGENDWO, welcher Sensor installiert ist. Also wahrscheinlich NOX-Sensor und schlecht. | https://www.toppreise.ch/produktsuche?q=co2-messger%C3%A4t https://www.conrad.ch/de/p/tfa-dostmann-airco2ntrol-mini-kohlendioxid-messgeraet-0-3000-ppm-1529232.html                     |
+
