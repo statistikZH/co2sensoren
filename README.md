@@ -1,7 +1,21 @@
-# CO2-Sensoren für Schulen
+# CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Beschreibung / Einleitung
+Das BAG rät bezüglich des neuen Coronavirus zum häufigen Lüften: "Wenn sich mehrere Personen im selben Raum aufhalten, kann gründliches und regelmässiges Lüften das Ansteckungsrisiko reduzieren" ([Siehe Webseite des BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-den-alltag.html)).
+Im Mittelpunkt steht dabei die CO2-Messung oder CO2-Schätzung in Räumen durch günstige Sensoren und Minicomputer wie sie momentan im Internet of Things (IoT) verwendet werden.
 
+Einerseits ist das Ziel coronabedingt den Schulen eine Möglichkeit zu geben:
+
+    Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung. Aber auch vor Corona war dies bereits ein Thema, da ein höherer CO2-Gehalt in Räumen zu Müdigkeit führt. Siehe https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html . Der Preis sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind.
+    Schulen können sich durch diese Do-It-Yourself-Methode weitere Vorteile erschaffen. Dazu gehören Unterrichtslinks in Programmierung (Die Sensoren werden über die momentan beliebteste Programmiersprache Python bedient); Statistik (durch Testen von Hypothesen) und Physik (Schaltkreise).
+    Diese angewandte Problemstellung von Programmierung und Statistik führt dazu, dass reale Beispiele verwendet werden, statt fiktive. Beispielsweise lässt sich eine Datensammlung programmieren, die CO2-Werte bei offenemen und geschlossenem Fenster misst. Sind die Werte bei offeneme Fenster anders? Auch wenn diese Hypothese sehr banal ist, so können die SchülerInnen diese mit den eigenen Daten testen und Statistik somit fassbarer machen.
+    Theoretisch lassen sich mehrere CO2-Sensoren auch zentral oder von der ferne beobachten - möglicherweise relevant wenn in einigen Räumen der CO2-Gehalt höher ist als in anderen. Die Daten der meisten CO2-Messgeräte im Handel können nicht weiterverwendet werden (z.B. von der Ferne). 
+
+
+Andererseits wurde die Idee diskutiert eine CO2-Messung direkt beim statistischen Amt zu haben. Das Ziel ist hier:
+
+    Eigener Lüftungsschutz in Zeiten von Corona.
+    Eine Requisite, die man Besuchern en passant zeigen kann (z.B. wenn die Werte auf einer Screen dargestellt werden).
+    Womöglich OGD-Werte, die nach aussen kommmuniziert werden und marketingtauglich sind.
 # Handlungsoptionen für Schulen und Verwaltungen
 
 - CO2-Sensoren gibt es als handelsfertige Produkte.
