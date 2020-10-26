@@ -65,7 +65,7 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 |Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
 | Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
-| Adafruit BME680 Sensor |26.40CHF|
+| Adafruit BME680 Sensor |26.40CHF|   https://www.distrelec.ch/en/adafruit-bme680-sensor-5v-adafruit-3660/p/30129236?channel=b2c&source=googleps&ext_cid=shgooaqchen-na&ext_cid=gpgooaqchen-P-Search-Nursery&kw=&q=&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmL2AH7AYfURJiVSH66peaMdYWsQdBghWmTNaDEQ_uNoau6iVrcnhhoaAgeGEALw_wcB
 | LED-Ring | 9.40CHF      |       https://www.reichelt.com/ch/de/entwicklerboards-neopixel-ring-mit-12-ws2812rgb-leds-debo-led-np12-p235468.html?PROVID=2808&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJrmjZ4XyqOSlzouTPQY3wdGSNJ4WAF1FOGHdpvr7HT9P5WqqlGwxUaApwQEALw_wcB                                                                                    |
 | TOTAL                                                          | 114?       |                                                                                           |
 
