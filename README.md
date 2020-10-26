@@ -60,7 +60,7 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 
   
 
-Geplante Kostenübersicht über Lösung für Schulen. VARIANTE2
+## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE2
 
 (Erklärung: Hier handelt es sich um ein Zero WH und nicht Zero W. Der Unterschied ist, dass die GPIO-Pins bereits vertikal installiert sind und nicht gelötet werden müssen. Das macht die Verkablung etwas leichter.
 
