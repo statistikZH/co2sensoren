@@ -69,25 +69,25 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 | LED-Ring | 9.40CHF      |       https://www.reichelt.com/ch/de/entwicklerboards-neopixel-ring-mit-12-ws2812rgb-leds-debo-led-np12-p235468.html?PROVID=2808&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJrmjZ4XyqOSlzouTPQY3wdGSNJ4WAF1FOGHdpvr7HT9P5WqqlGwxUaApwQEALw_wcB                                                                                    |
 | TOTAL                                                          | 114?       |                                                                                           |
 
-  ->Why a BME680 Sensor? Where is the platine here? Is the ESP32 really a wifi-module? 9V battery sufficient? Cables etc?
+  ->Why a BME680 Sensor? Is the ESP32 with wifi-module like this OK? 9V battery sufficient? Cables etc?
   
   
   
-## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE3 (Neuste)
+## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE3 (Wahrscheinlich muss es gelöscht werden)
 
-(Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
+(Erklärung: In dieser Variante wird ein Arduino mit einem SCD30 verbunden. Ich glaube die folgende Variante muss gelöscht werden. Ist ein nano sense wirklich notwendig? )
 
 
 
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
 | Arduino nano 33 BLE sense                             | XXX  50CHF?    | XXX                                  |
-|Sensirion SCD30 Sensor                                          | XX  60EUR?         | XXX           |
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 7            | mikroshop.ch                                                                              |
+|Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
 | Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | Arduino Uno rev 3 |20EUR|
 | Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
-| TOTAL                                                          | 120?       |                                                                                           |
+| TOTAL                                                          | 135?       |                                                                                           |
 
   
 
@@ -100,12 +100,12 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
 | Raspberry PI Zero Minimal Kit 30                               | 29.90        | https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit                                    |
-| `#ff0000` Adafruit SGP30 Sensor - Wird geändert vll. auf SCD30`#ff0000`                                          | 30           | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
-| Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung) | 7            | mikroshop.ch                                                                              |
+| Sensirion SCD30 Sensor                                           | 60CHF?          |             |
+| Pin Jumper, Pin Stiftleisten, Breadboard  | 4            | mikroshop.ch                                                                              |
 | Steckernetzteil                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | USB hub (um Keyboard und Maus anzuschliessen)                  | 13.90        | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
 | Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
-| TOTAL                                                          | 98.70        |                                                                                           |
+| TOTAL                                                          | 125.70        |                                                                                           |
 
   
 
@@ -120,14 +120,14 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 |                              Budgetposten                              |        Kosten (CHF)        |                                             Wo                                            |
 |:----------------------------------------------------------------------:|:--------------------------:|:-----------------------------------------------------------------------------------------:|
 | Raspberry PI Zero WH                                                   | 15.90                      | https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet                               |
-| <span style="color:red">Adafruit SGP30 Sensor - Wird geändert vll. auf SCD30</span>                                                   | 30                         | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
-| Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung)         | 7                          | mikroshop.ch                                                                              |
+| Sensirion SCD30 Sensor                                                    | 60                         |           |
+| Pin Jumper, Pin Stiftleisten, Breadboard        | 4                          | mikroshop.ch                                                                              |
 | Mini HDMI to HDMI                                                      | 4.90                       | https://www.pi-shop.ch/pi-zero-hdmi-adaptor-white-mini-hdmi-to-hdmi                       |
 | Steckernetzteil                                                        | 17.90                      | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | USB hub                                                                | 13.90                      | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
 | Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden         | Depends                    |                                                                                           |
 | Optional: Gehäusezubehör kostet 16.90 aber inklusive Mini HDMI to HDMI | (16.90 minus 4.90)         |                                                                                           |
-| TOTAL                                                                  | 92.60 (104.60 mit Gehäuse) |                                                                                           |
+| TOTAL                                                                  | 119.60 (101.60 mit Gehäuse) |                                                                                           |
 
   
 
