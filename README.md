@@ -38,7 +38,7 @@ Andere?
 
 
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
-|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
+|:----------------------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
 | Espressif ESP32 WiFi-BT-BLE MCU Modul                             | 14.90CHF    | https://www.play-zone.ch/de/esp32-wifi-bt-ble-mcu-modul-esp-wroom-32.html?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKxkJojTtiDqNlSWGkw464pa3MgCIk_OSGUSiNV7P9aXtDFeG9SlDcaAl1MEALw_wcB                                  |
 |Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
