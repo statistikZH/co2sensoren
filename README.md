@@ -24,6 +24,13 @@ Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft
 # Kostenübersicht und Alternativen
 Dieser Abschnitt ist momentan im Aufbau. 
 
+## Diskussion von verschiedenen Alternativen.
+Beispielsweise
+https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
+https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
+Edge-sense?
+Andere?
+
 ## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE4 - nach Markus Leutwyler
 
 (Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
