@@ -50,10 +50,10 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 | Arduino nano 33 BLE sense                             | XXX  50CHF?    | XXX                                  |
 |Sensirion SCD30 Sensor                                          | XX  60EUR?         | XXX           |
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 7            | mikroshop.ch                                                                              |
-| Batterie?                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | Arduino Uno rev 3 |20EUR|
 | Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
-| TOTAL                                                          | 140?       |                                                                                           |
+| TOTAL                                                          | 120?       |                                                                                           |
 
   
 
