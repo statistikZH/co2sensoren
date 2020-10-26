@@ -39,6 +39,25 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 
 # Kostenübersicht und Alternativen
 
+## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE3 (Neuste)
+
+(Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
+
+
+
+|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
+|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
+| Arduino nano 33 BLE sense                             | XXX  50CHF?    | XXX                                  |
+|Sensirion SCD30 Sensor                                          | XX  60EUR?         | XXX           |
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 7            | mikroshop.ch                                                                              |
+| Batterie?                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Arduino Uno rev 3 |20EUR|
+| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
+| TOTAL                                                          | 140?       |                                                                                           |
+
+  
+
+  
 
 ## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE1
 
