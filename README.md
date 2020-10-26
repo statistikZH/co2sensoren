@@ -35,110 +35,24 @@ Fazit:
 
 Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist günstiger und gibt in einigen Fällen eine überraschend gute Messung. NDIR vermittelt den SchülerInnen genauere Messwerte (echte Messwerte statt Schätzungen).
 
-1.  [CO2-Sensoren](index.html)
 
-CO2-Sensoren : Kostenübersicht und Alternativen
-===============================================
 
-Created by Christian Ruiz, last modified on 19.10.2020
+# Kostenübersicht und Alternativen
 
-Kostenübersicht der aktuellen "privaten" Lösung von Christian, die aber nicht spezifisch für die CO2-Lösung gedacht war und deshalb etwas teurer war.
 
-Budgetposten
-
-Kosten (CHF)
-
-Wo
-
-Raspberry PI 4B Starter Kit
-
-115
-
-[https://www.pi-shop.ch/raspberry-pi-4-starter-kit-pi-4-8gb](https://www.pi-shop.ch/raspberry-pi-4-starter-kit-pi-4-8gb)
-
-Adafruit SGP30 Sensor
-
-30
-
-[https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2](https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2)
-
-Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung)
-
-7
-
-mikroshop.ch
-
-Dongle HDMI to USB (Oder z.B. VGA to USB)
-
-31
-
-[https://www.digitec.ch/en/s1/product/hp-usb-c-to-hdmi-hdmi-1110cm-notebook-adapters-7948558](https://www.digitec.ch/en/s1/product/hp-usb-c-to-hdmi-hdmi-1110cm-notebook-adapters-7948558)
-
-Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden
-
-Depends
-
-  
-
-**TOTAL**
-
-183
-
-  
-
-  
-
-  
-
-Geplante Kostenübersicht über Lösung für Schulen. VARIANTE1
+## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE1
 
 (Erklärung: In dieser Variante mit Raspberry PI Zero W (und nicht WH wie in der zweiten Variante), müssen die GPIO-Pins selbst gelötet werden). Die beiden Varianten beinhalten Raspberry PIs mit WLAN-Verbindung! Man kann somit die Werte auch per WLAN versenden.
 
-Budgetposten
-
-Kosten (CHF)
-
-Wo
-
-Raspberry PI Zero Minimal Kit 30
-
-29.90
-
-[https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit](https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit)
-
-Adafruit SGP30 Sensor
-
-30
-
-[https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2](https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2)
-
-Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung)
-
-7
-
-[mikroshop.ch](http://mikroshop.ch)
-
-Steckernetzteil
-
-17.90
-
-[https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a](https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a)
-
-USB hub (um Keyboard und Maus anzuschliessen)
-
-13.90
-
-[https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550](https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550)
-
-Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden
-
-Depends
-
-  
-
-**TOTAL**
-
-98.70
+|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
+|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
+| Raspberry PI Zero Minimal Kit 30                               | 29.90        | https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit                                    |
+| Adafruit SGP30 Sensor                                          | 30           | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
+| Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung) | 7            | mikroshop.ch                                                                              |
+| Steckernetzteil                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| USB hub (um Keyboard und Maus anzuschliessen)                  | 13.90        | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
+| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
+| TOTAL                                                          | 98.70        |                                                                                           |
 
   
 
