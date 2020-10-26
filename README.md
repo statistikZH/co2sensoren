@@ -10,6 +10,7 @@ Aber folgend wird eine Lösung vorgestellt, um die CO2-Sensore in den Schulen (m
 - eigene Daten erheben
 - eigene Daten visualisieren
 - verstehen
+
 hat neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die gemessenen Werte:
 - die Messerwerte werden mehr beachtet 
 - es wird mehr gelüftet
@@ -17,25 +18,9 @@ hat neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die 
 Insgesamt sehen wir somit folgende Vorteile:
 - Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. 
 - Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind.
-    Schulen können sich durch diese Do-It-Yourself-Methode weitere Vorteile erschaffen. Dazu gehören Unterrichtslinks in Programmierung (Die Sensoren werden über die momentan beliebteste Programmiersprache Python bedient); Statistik (durch Testen von Hypothesen) und Physik (Schaltkreise).
-    Diese angewandte Problemstellung von Programmierung und Statistik führt dazu, dass reale Beispiele verwendet werden, statt fiktive. Beispielsweise lässt sich eine Datensammlung programmieren, die CO2-Werte bei offenemen und geschlossenem Fenster misst. Sind die Werte bei offeneme Fenster anders? Auch wenn diese Hypothese sehr banal ist, so können die SchülerInnen diese mit den eigenen Daten testen und Statistik somit fassbarer machen.
-    Theoretisch lassen sich mehrere CO2-Sensoren auch zentral oder von der ferne beobachten - möglicherweise relevant wenn in einigen Räumen der CO2-Gehalt höher ist als in anderen. Die Daten der meisten CO2-Messgeräte im Handel können nicht weiterverwendet werden (z.B. von der Ferne). 
-
-
-
-
-
-Andererseits wurde die Idee diskutiert eine CO2-Messung direkt beim statistischen Amt zu haben. Das Ziel ist hier:
-
-    Eigener Lüftungsschutz in Zeiten von Corona.
-    Eine Requisite, die man Besuchern en passant zeigen kann (z.B. wenn die Werte auf einer Screen dargestellt werden).
-    Womöglich OGD-Werte, die nach aussen kommmuniziert werden und marketingtauglich sind.
-# Handlungsoptionen für Schulen und Verwaltungen
-
-- CO2-Sensoren gibt es als handelsfertige Produkte.
-- CO2-Sensoren werden von Freiwilligen / Vereinen vorbereitet und dann an Schulen verteilt.
-- CO2-Sensoren werden selbst gebastelt von Schulen
-
+- Schulen können sich durch diese Do-It-Yourself-Methode weitere Vorteile erschaffen. Dazu gehören praxisnahe Anwendungen in IoT/Physik, Programmierung (Stichwort (data literacy)[https://www.data-literacy.ch/]); Statistik (Stichwort statistical literacy).
+- Diese angewandte Problemstellung von Programmierung und Statistik führt dazu, dass reale Beispiele verwendet werden, statt fiktive. Beispielsweise lässt sich eine Datensammlung programmieren, die CO2-Werte bei offenemen und geschlossenem Fenster misst. Sind die Werte bei offeneme Fenster anders? Auch wenn diese Hypothese sehr banal ist, so können die SchülerInnen diese mit den eigenen Daten testen und Statistik somit fassbarer machen.
+- Theoretisch lassen sich mehrere CO2-Sensoren auch zentral oder von der ferne beobachten - möglicherweise relevant wenn in einigen Räumen der CO2-Gehalt höher ist als in anderen. Die Daten der meisten CO2-Messgeräte im Handel können nicht weiterverwendet werden (z.B. von der Ferne). 
 
 
 # Infos zu Sensoren
@@ -67,6 +52,27 @@ Es gibt für die Schulen die Alternative zwischen MOX und zwischen NDIR. MOX ist
 
 # Kostenübersicht und Alternativen
 
+
+## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE4 - nach Markus Leutwyler
+
+(Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
+
+
+
+|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
+|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
+| Espressif ESP32 WiFi-BT-BLE MCU Modul                             | 14.90CHF    | https://www.play-zone.ch/de/esp32-wifi-bt-ble-mcu-modul-esp-wroom-32.html?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKxkJojTtiDqNlSWGkw464pa3MgCIk_OSGUSiNV7P9aXtDFeG9SlDcaAl1MEALw_wcB                                  |
+|Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
+| Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Adafruit BME680 Sensor |26.40CHF|
+| LED-Ring | 9.40CHF      |       https://www.reichelt.com/ch/de/entwicklerboards-neopixel-ring-mit-12-ws2812rgb-leds-debo-led-np12-p235468.html?PROVID=2808&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJrmjZ4XyqOSlzouTPQY3wdGSNJ4WAF1FOGHdpvr7HT9P5WqqlGwxUaApwQEALw_wcB                                                                                    |
+| TOTAL                                                          | 114?       |                                                                                           |
+
+  ->Why a BME680 Sensor? Where is the platine here? Is the ESP32 really a wifi-module? 9V battery sufficient? Cables etc?
+  
+  
+  
 ## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE3 (Neuste)
 
 (Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
