@@ -64,63 +64,17 @@ Geplante Kostenübersicht über Lösung für Schulen. VARIANTE2
 
 (Erklärung: Hier handelt es sich um ein Zero WH und nicht Zero W. Der Unterschied ist, dass die GPIO-Pins bereits vertikal installiert sind und nicht gelötet werden müssen. Das macht die Verkablung etwas leichter.
 
-Budgetposten
-
-Kosten (CHF)
-
-Wo
-
-Raspberry PI Zero WH
-
-15.90
-
-[https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet](https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet)
-
-Adafruit SGP30 Sensor
-
-30
-
-[https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2](https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2)
-
-Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung)
-
-7
-
-[mikroshop.ch](http://mikroshop.ch)
-
-Mini HDMI to HDMI
-
-4.90
-
-[https://www.pi-shop.ch/pi-zero-hdmi-adaptor-white-mini-hdmi-to-hdmi](https://www.pi-shop.ch/pi-zero-hdmi-adaptor-white-mini-hdmi-to-hdmi)
-
-Steckernetzteil
-
-17.90
-
-[https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a](https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a)
-
-USB hub
-
-13.90
-
-[https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550](https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550)
-
-Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden
-
-Depends
-
-  
-
-Optional: Gehäusezubehör kostet 16.90 aber inklusive Mini HDMI to HDMI
-
-(16.90 minus 4.90)
-
-  
-
-**TOTAL**
-
-92.60 (104.60 mit Gehäuse)
+|                              Budgetposten                              |        Kosten (CHF)        |                                             Wo                                            |
+|:----------------------------------------------------------------------:|:--------------------------:|:-----------------------------------------------------------------------------------------:|
+| Raspberry PI Zero WH                                                   | 15.90                      | https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet                               |
+| Adafruit SGP30 Sensor                                                  | 30                         | https://www.pi-shop.ch/adafruit-sgp30-air-quality-sensor-breakout-voc-and-eco2            |
+| Pin Jumper, Pin Stiftleisten, Breadboard (Inklusive Lieferung)         | 7                          | mikroshop.ch                                                                              |
+| Mini HDMI to HDMI                                                      | 4.90                       | https://www.pi-shop.ch/pi-zero-hdmi-adaptor-white-mini-hdmi-to-hdmi                       |
+| Steckernetzteil                                                        | 17.90                      | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| USB hub                                                                | 13.90                      | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
+| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden         | Depends                    |                                                                                           |
+| Optional: Gehäusezubehör kostet 16.90 aber inklusive Mini HDMI to HDMI | (16.90 minus 4.90)         |                                                                                           |
+| TOTAL                                                                  | 92.60 (104.60 mit Gehäuse) |                                                                                           |
 
   
 
