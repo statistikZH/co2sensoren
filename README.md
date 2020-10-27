@@ -39,9 +39,9 @@ Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft
 | Netzteil                                                | CHF 1.95       | ?                                   |
 | BME680 Sensor |$5.40|   Aliexpress
 | LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |       Mouser                                                                                 |
-| Lichtsensor | CHF 0.44      |       ?                                                                                |
-| Motion sensor | CHF 0.81      |       ?                                                                                |
-| LoRa | CHF 20      |       ?                                                                                |
+| Lichtsensor | CHF 0.44      |       Aliexpress                                                                                |
+| Motion sensor | CHF 0.81      |       Aliexpress                                                                                |
+| LoRa | CHF 20      |       Mouser                                                                                |
 | Hülle aus 3D-Drucker | CHF 2     |       Selbstbau                                                                               |
 | TOTAL                                                          | 62.58 (82.58)     |  Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich                                                                                          |
 
