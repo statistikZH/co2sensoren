@@ -41,11 +41,13 @@ Andere?
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
 | Espressif ESP32 WiFi-BT-BLE MCU Modul                             | $3.12    | Aliexpress                                |
 |Sensirion SCD30 Sensor                                          | CHF 46.94         | Mouser           |
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
-| Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              
+| USB Netzteil 5V 1A                                               | $1.75       |    Aliexpress                                |
 | BME680 Sensor |$5.40|   Aliexpress
-| LED-Ring oder LED-Stick | CHF 6.86 bzw. CHF 5.44      |       Mouser                                                                                 |
-| TOTAL                                                          | 114?       |                                                                                           |
+| LED-Ring oder LED-Stick | CHF 6.86 bzw. CHF 5.44      |       Mouser     |
+| Lichtsensor    | $0.44 | Aliexpress
+| Bewegungssensor (PIR) | $0.81  | Aliexpress |
+| TOTAL                                                          |        |                                                                                           |
 
   ->Why a BME680 Sensor? Is the ESP32 with wifi-module like this OK? 9V battery sufficient? Cables etc?
   
