@@ -25,6 +25,7 @@ Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFI we
 Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind (siehe weiter unten).
 
 ![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/Figure_5.png)
+
 Bild: Nach dem öffnen des Fensters fällt der CO2-Anteil im Raum deutlich. Danach steigt es wieder an.
 
 # Kostenübersicht und Alternativen
