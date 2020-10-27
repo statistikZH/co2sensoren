@@ -39,12 +39,12 @@ Andere?
 
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
-| Espressif ESP32 WiFi-BT-BLE MCU Modul                             | 14.90CHF    | https://www.play-zone.ch/de/esp32-wifi-bt-ble-mcu-modul-esp-wroom-32.html?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmKxkJojTtiDqNlSWGkw464pa3MgCIk_OSGUSiNV7P9aXtDFeG9SlDcaAl1MEALw_wcB                                  |
-|Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
+| Espressif ESP32 WiFi-BT-BLE MCU Modul                             | $3.12    | Aliexpress                                |
+|Sensirion SCD30 Sensor                                          | CHF 46.94         | Mouser           |
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
 | Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
-| Adafruit BME680 Sensor |26.40CHF|   https://www.distrelec.ch/en/adafruit-bme680-sensor-5v-adafruit-3660/p/30129236?channel=b2c&source=googleps&ext_cid=shgooaqchen-na&ext_cid=gpgooaqchen-P-Search-Nursery&kw=&q=&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmL2AH7AYfURJiVSH66peaMdYWsQdBghWmTNaDEQ_uNoau6iVrcnhhoaAgeGEALw_wcB
-| LED-Ring | 9.40CHF      |       https://www.reichelt.com/ch/de/entwicklerboards-neopixel-ring-mit-12-ws2812rgb-leds-debo-led-np12-p235468.html?PROVID=2808&gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmJrmjZ4XyqOSlzouTPQY3wdGSNJ4WAF1FOGHdpvr7HT9P5WqqlGwxUaApwQEALw_wcB                                                                                    |
+| BME680 Sensor |$5.40|   Aliexpress
+| LED-Ring oder LED-Stick | CHF 6.86 bzw. CHF 5.44      |       Mouser                                                                                 |
 | TOTAL                                                          | 114?       |                                                                                           |
 
   ->Why a BME680 Sensor? Is the ESP32 with wifi-module like this OK? 9V battery sufficient? Cables etc?
