@@ -36,7 +36,7 @@ Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft
 | Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.12    | Aliexpress                                |
 |Sensirion SCD30 Sensor                                          | CHF 40         | Mouser           |
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            | mikroshop.ch                                                                              |
-| Netzteil                                                | CHF 1.95       | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Netzteil                                                | CHF 1.95       | ?                                   |
 | BME680 Sensor |$5.40|   Aliexpress
 | LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |       Mouser                                                                                 |
 | Lichtsensor | CHF 0.44      |       ?                                                                                |
