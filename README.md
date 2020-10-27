@@ -47,6 +47,7 @@ Andere?
 | LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |       Mouser                                                                                 |
 | Lichtsensor | CHF 0.44      |       ?                                                                                |
 | Motion sensor | CHF 0.81      |       ?                                                                                |
+| Hülle aus 3D-Drucker | CHF 2     |       Selbstbau                                                                               |
 | TOTAL                                                          | 60.58      |  (Annahme USD=CHF)                                                                                          |
 
 
