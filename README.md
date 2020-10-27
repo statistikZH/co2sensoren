@@ -39,13 +39,15 @@ Andere?
 
 |                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
 |:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
-| Espressif ESP32 WiFi-BT-BLE MCU Modul                             | $3.12    | Aliexpress                                |
-|Sensirion SCD30 Sensor                                          | CHF 46.94         | Mouser           |
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
-| Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
+| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.12    | Aliexpress                                |
+|Sensirion SCD30 Sensor                                          | CHF 40         | Mouser           |
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            | mikroshop.ch                                                                              |
+| Netzteil                                                | CHF 1.95       | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | BME680 Sensor |$5.40|   Aliexpress
 | LED-Ring oder LED-Stick | CHF 6.86 bzw. CHF 5.44      |       Mouser                                                                                 |
-| TOTAL                                                          | 114?       |                                                                                           |
+| Lichtsensor | CHF 0.44      |       ?                                                                                |
+| Motion sensor | CHF 0.81      |       ?                                                                                |
+| TOTAL                                                          | 59.72      |  (Annahme USD=CHF)                                                                                          |
 
   ->Why a BME680 Sensor? Is the ESP32 with wifi-module like this OK? 9V battery sufficient? Cables etc?
   
