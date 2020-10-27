@@ -16,7 +16,7 @@ hat neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die 
 - es wird mehr gelüftet
 
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/IMG_20201027_090440267.jpg)
-Der Sensor blinkt gelb! Fenster lüften!
+Bild: Der Sensor blinkt gelb! Fenster lüften!
 
 Diese Do-It-Yourself-Methode kann aber auch genutzt werden um neben IoT/Physik auch praxisnahe Anwendungen in Programmierung (Stichwort (data literacy)[https://www.data-literacy.ch/]) und Statistik (Stichwort statistical literacy) näher zu bringen. Dadurch können reale Statistik- und Programmierbeispiele verwendet werden. Beispielsweise kann man die Daten bei offenem und geschlosenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
 
