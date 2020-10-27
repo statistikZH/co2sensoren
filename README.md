@@ -25,18 +25,9 @@ Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFI we
 Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind (siehe weiter unten).
 
 # Kostenübersicht und Alternativen
-Dieser Abschnitt ist momentan im Aufbau. 
 
-## Diskussion von verschiedenen Alternativen.
-Beispielsweise
-https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
-https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
-Edge-sense?
-Andere?
 
-## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE4 - nach Markus Leutwyler
-
-(Erklärung: In dieser neusten Variante wird ein Arduino mit einem SCD30 verbunden)
+## Geplante Kostenübersicht über vorgeschlagene Lösung für Schulen. (Lösung nach Markus Leutwyler vom Verein Make.Human.Technology)
 
 
 
@@ -55,7 +46,11 @@ Andere?
 | TOTAL                                                          | 62.58 (82.58)     |  Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich                                                                                          |
 
 
-  
+## Diskussion von anderen Alternativen
+Es gibt auch weitere Alternativen, die ähnlich sind. Hier einige: links:
+- https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
+- https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
+
 
   
 # Hintergrundinfos zu Sensoren
