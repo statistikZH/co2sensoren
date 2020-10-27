@@ -44,73 +44,16 @@ Andere?
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            | mikroshop.ch                                                                              |
 | Netzteil                                                | CHF 1.95       | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
 | BME680 Sensor |$5.40|   Aliexpress
-| LED-Ring oder LED-Stick | CHF 6.86 bzw. CHF 5.44      |       Mouser                                                                                 |
+| LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |       Mouser                                                                                 |
 | Lichtsensor | CHF 0.44      |       ?                                                                                |
 | Motion sensor | CHF 0.81      |       ?                                                                                |
-| TOTAL                                                          | 59.72      |  (Annahme USD=CHF)                                                                                          |
+| TOTAL                                                          | 60.58      |  (Annahme USD=CHF)                                                                                          |
 
-  ->Why a BME680 Sensor? Is the ESP32 with wifi-module like this OK? 9V battery sufficient? Cables etc?
-  
-  
-  
-## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE3 (Wahrscheinlich muss es gelöscht werden)
-
-(Erklärung: In dieser Variante wird ein Arduino mit einem SCD30 verbunden. Ich glaube die folgende Variante muss gelöscht werden. Ist ein nano sense wirklich notwendig? )
-
-
-
-|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
-|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
-| Arduino nano 33 BLE sense                             | XXX  50CHF?    | XXX                                  |
-|Sensirion SCD30 Sensor                                          | XX  60CHF?         | XXX           |
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | 2            | mikroshop.ch                                                                              |
-| Batterie?                                                | 1.36        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
-| Arduino Uno rev 3 |20EUR|
-| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
-| TOTAL                                                          | 135?       |                                                                                           |
 
   
 
   
-
-## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE1
-
-(Erklärung: In dieser Variante mit Raspberry PI Zero W (und nicht WH wie in der zweiten Variante), müssen die GPIO-Pins selbst gelötet werden). Die beiden Varianten beinhalten Raspberry PIs mit WLAN-Verbindung! Man kann somit die Werte auch per WLAN versenden.
-
-|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
-|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
-| Raspberry PI Zero Minimal Kit 30                               | 29.90        | https://www.pi-shop.ch/raspberry-pi-zero-w-minimal-kit                                    |
-| Sensirion SCD30 Sensor                                           | 60CHF?          |             |
-| Pin Jumper, Pin Stiftleisten, Breadboard  | 4            | mikroshop.ch                                                                              |
-| Steckernetzteil                                                | 17.90        | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
-| USB hub (um Keyboard und Maus anzuschliessen)                  | 13.90        | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
-| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden | Depends      |                                                                                           |
-| TOTAL                                                          | 125.70        |                                                                                           |
-
-  
-
-  
-
-  
-
-## Geplante Kostenübersicht über Lösung für Schulen. VARIANTE2
-
-(Erklärung: Hier handelt es sich um ein Zero WH und nicht Zero W. Der Unterschied ist, dass die GPIO-Pins bereits vertikal installiert sind und nicht gelötet werden müssen. Das macht die Verkablung etwas leichter.
-
-|                              Budgetposten                              |        Kosten (CHF)        |                                             Wo                                            |
-|:----------------------------------------------------------------------:|:--------------------------:|:-----------------------------------------------------------------------------------------:|
-| Raspberry PI Zero WH                                                   | 15.90                      | https://www.pi-shop.ch/raspberry-pi-zero-wh-header-geloetet                               |
-| Sensirion SCD30 Sensor                                                    | 60                         |           |
-| Pin Jumper, Pin Stiftleisten, Breadboard        | 4                          | mikroshop.ch                                                                              |
-| Mini HDMI to HDMI                                                      | 4.90                       | https://www.pi-shop.ch/pi-zero-hdmi-adaptor-white-mini-hdmi-to-hdmi                       |
-| Steckernetzteil                                                        | 17.90                      | https://www.pi-shop.ch/steckernetzteil-microusb-5v-25a                                    |
-| USB hub                                                                | 13.90                      | https://www.digitec.ch/en/s1/product/gembird-usb-hub-4port-usb20-4ports-usb-hubs-13270550 |
-| Optional: Keyboard, Mouse und Bildschirm falls nicht vorhanden         | Depends                    |                                                                                           |
-| Optional: Gehäusezubehör kostet 16.90 aber inklusive Mini HDMI to HDMI | (16.90 minus 4.90)         |                                                                                           |
-| TOTAL                                                                  | 119.60 (101.60 mit Gehäuse) |                                                                                           |
-
-  
-# Infos zu Sensoren
+# Hintergrundinfos zu Sensoren
 
 Es gibt eine wichtige Unterscheidung zwischen verschiedenen Arten von Sensoren. Einige sind günstiger und schätzen nur den CO2-Anteil, während andere den echten CO2-Anteil messen. **Um ein kurzes und verständliches Fazit vorwegzunehmen: Wir empfehlen den Schulen Sensoren mit NDIR (Non-Dispersive Infrared Sensors) und raten von MOX-Lösungen ab, die ungenau sind und lange Kalibrierungen brauchen**. 
 
