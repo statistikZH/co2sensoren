@@ -48,7 +48,7 @@ Andere?
 | Lichtsensor | CHF 0.44      |       ?                                                                                |
 | Motion sensor | CHF 0.81      |       ?                                                                                |
 | Hülle aus 3D-Drucker | CHF 2     |       Selbstbau                                                                               |
-| TOTAL                                                          | 60.58      |  (Annahme USD=CHF)                                                                                          |
+| TOTAL                                                          | 62.58      |  (Annahme USD=CHF)                                                                                          |
 
 
   
