@@ -57,7 +57,7 @@ Es gibt auch weitere Alternativen, die ähnlich sind. Hier einige: links:
 
 Es gibt eine wichtige Unterscheidung zwischen verschiedenen Arten von Sensoren. Einige sind günstiger und schätzen nur den CO2-Anteil, während andere den echten CO2-Anteil messen. **Um ein kurzes und verständliches Fazit vorwegzunehmen: Wir empfehlen den Schulen Sensoren mit NDIR (Non-Dispersive Infrared Sensors) und raten von MOX-Lösungen ab, die ungenau sind und lange Kalibrierungen brauchen**. 
 
-Und nun die (längere Erklärung)[https://learn.kaiterra.com/en/air-academy/carbon-dioxide-sensors/] zu den drei Arten von Sensoren:
+Und nun die [längere Erklärung](https://learn.kaiterra.com/en/air-academy/carbon-dioxide-sensors) zu den drei Arten von Sensoren:
 
 1) Metal-Oxid-Lösungen (MOX)
 
