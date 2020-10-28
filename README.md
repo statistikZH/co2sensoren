@@ -39,19 +39,21 @@ Bild: Nach dem öffnen des Fensters fällt der CO2-Anteil im Raum deutlich. Dana
 
 
 
-|                          Budgetposten                          | Kosten (CHF) |                                             Wo                                            |
-|:--------------------------------------------------------------:|:------------:|:-----------------------------------------------------------------------------------------:|
-| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.12    | Aliexpress                                |
-|Sensirion SCD30 Sensor                                          | CHF 40         | Mouser           |
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            | mikroshop.ch                                                                              |
-| Netzteil                                                | CHF 1.95       | Aliexpress                                   |
-| BME680 Sensor |$5.40|   Aliexpress
-| LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |       Mouser                                                                                 |
-| Lichtsensor | CHF 0.44      |       Aliexpress                                                                                |
-| Motion sensor | CHF 0.81      |       Aliexpress                                                                                |
-| LoRa | CHF 20      |       Mouser                                                                                |
-| Hülle aus 3D-Drucker | CHF 2     |       Selbstbau                                                                               |
-| TOTAL                                                          | 62.58 (82.58)     |  Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich                                                                                          |
+|                          Budgetposten                          | Kosten (CHF) |     
+|:--------------------------------------------------------------:|:------------:|
+| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.12    | 
+|Sensirion SCD30 Sensor                                          | CHF 40         | 
+| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            |
+| Netzteil                                                | CHF 1.95       | 
+| BME680 Sensor |$5.40|   
+| LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |      
+| Lichtsensor | CHF 0.44      |      
+| Motion sensor | CHF 0.81      |     
+| LoRa | CHF 20      |      
+| Selbstbau-Hülle aus 3D-Drucker | CHF 2     |       
+| TOTAL                                                          | 62.58 (82.58)     |                                                                                          |
+
+Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich. 
 
 Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Diese Lösung kann auch flexibel mit anderen Teilen gebastelt werden. Alternativen dazu finden Sie auch hier:
 
