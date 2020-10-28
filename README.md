@@ -1,6 +1,7 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das Projekt wurde vom Statistischen Amt des Kanton Zürichs initiiert in Partnerschaft mit dem [Verein Make.Human.Technology](https://makehumantechnology.org), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von einigen Freiwilligen. Wir sind auch offen für weitere Kooperationen.
+Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit dem [Verein Make.Human.Technology](https://makehumantechnology.org), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von einigen Freiwilligen. Wir sind auch offen für weitere Kooperationen. Kontakt: christian.ruiz@statistik.ji.zh.ch
+
 
 ## Projektidee
 
