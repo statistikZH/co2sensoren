@@ -49,12 +49,11 @@ Bild: Nach dem öffnen des Fensters fällt der CO2-Anteil im Raum deutlich. Dana
 | Hülle aus 3D-Drucker | CHF 2     |       Selbstbau                                                                               |
 | TOTAL                                                          | 62.58 (82.58)     |  Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich                                                                                          |
 
+Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Diese Lösung kann auch flexibel mit anderen Teilen gebastelt werden. Alternativen dazu finden Sie auch hier:
 
-## Diskussion von anderen Alternativen
-Es gibt auch weitere Alternativen, die ähnlich sind. Hier einige: links:
 - https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
 - https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
-
+- https://digital.ebp.ch/2020/10/27/co2-messgeraet-im-eigenbau-hardware/
 
   
 # Hintergrundinfos zu Sensoren
