@@ -1,5 +1,9 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
+Das Projekt wurde vom Statistischen Amt des Kanton Zürichs initiiert in Partnerschaft mit dem [Verein Make.Human.Technology](https://makehumantechnology.org), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von einigen Freiwilligen. Wir sind auch offen für weitere Kooperationen.
+
+## Projektidee
+
 Das BAG rät bezüglich des neuen Coronavirus zum häufigen Lüften: "Wenn sich mehrere Personen im selben Raum aufhalten, kann gründliches und regelmässiges Lüften das Ansteckungsrisiko reduzieren" ([Siehe Webseite des BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-den-alltag.html)). Im Mittelpunkt der folgenden Idee, steht die CO2-Messung in Räumen und ein automatisierter Alarm, welches zum lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist. Insbesondere in Schulräume mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar: eigentlich tut eine gute Lüftung den Köpfen auch ausserhalb von Pandemien gut! ([Siehe BAG](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html) aber auch [zur Müdigkeit hier](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html))
 
 Nun gibt es zwei Optionen. Einerseits können Schulen betriebsbereite CO2-Messgeräte kaufen. Eine Liste von solchen Geräten befindet sich am Ende dieses Dokuments. Die Preise sind auch gar nicht mal so teuer.
