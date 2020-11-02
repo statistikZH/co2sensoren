@@ -19,7 +19,7 @@ Wir nehmen an, dass die Wirkung von selber bauen, programmieren, eigene Daten er
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/IMG_20201027_090440267.jpg)
 Bild: Prototyp eines CO2-Sensors. Der Sensor blinkt gelb! Fenster lüften!
 
-Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Programmierung (Stichwort [data literacy](https://www.data-literacy.ch/)) und Statistik (Stichwort statistical literacy) näherzubringen.
+Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Datennutzung (Stichwort [data literacy](https://www.data-literacy.ch/)), Programmierung und Statistik näherzubringen.
 
 Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
 
