@@ -1,42 +1,55 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit dem [Verein Make.Human.Technology](https://makehumantechnology.org), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von freiwilligen Unterstützerinnen und Unterstützern. Wir sind auch offen für weitere Kooperationen. Kontakt: christian.ruiz@statistik.ji.zh.ch
+Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung) und dem [Verein Make.Human.Technology](https://makehumantechnology.org), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von freiwilligen Unterstützerinnen und Unterstützern. Wir sind auch offen für weitere Kooperationen. Kontakt: christian.ruiz@statistik.ji.zh.ch
 
 
 ## Projektidee
 
-Das BAG rät bezüglich des neuen Coronavirus zum häufigen Lüften: "Wenn sich mehrere Personen im selben Raum aufhalten, kann gründliches und regelmässiges Lüften das Ansteckungsrisiko reduzieren" ([Siehe Webseite des BAG](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-den-alltag.html)). Im Mittelpunkt der folgenden Idee, steht die CO2-Messung in Räumen und ein automatisierter Alarm, welches zum lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist. Insbesondere in Schulräume mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar: eigentlich tut eine gute Lüftung den Köpfen auch ausserhalb von Pandemien gut! ([Siehe BAG](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html) aber auch [zur Müdigkeit hier](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html))
+Im Mittelpunkt des Projekts steht die Idee einer CO2-Messung in Räumen und eines automatisierten Alarms, welcher zum Lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist.
 
-Nun gibt es zwei Optionen. Einerseits können Schulen betriebsbereite CO2-Messgeräte kaufen. Eine Liste von solchen Geräten befindet sich am Ende dieses Dokuments. Die Preise sind auch gar nicht mal so teuer.
+Häufiges Lüften ist eine der Massnahmen, die das Bundesamt für Gesundheit empfiehlt, um das Risiko einer Ansteckung mit dem Coronavirus zu reduzieren (siehe [BAG, 27.10.2020](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html)).
 
-Folgend wird aber eine alternative Option vorgestellt, um die CO2-Sensoren in den Schulen mit uns gemeinsam oder nach Anleitung selbst zu bauen. Denn, die Wirkung von:
-- selber bauen
-- selber programmieren
-- eigene Daten erheben
-- eigene Daten visualisieren
-- verstehen
+Insbesondere in Schulräume mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar; auch unabhängig von der aktuellen Pandemiesituation ([BAG, 2019](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html); [Bähring, 2013](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html)).
 
-hat neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die gemessenen Werte:
+Alternativ zum Kauf betriebsbereiter CO2-Messgeräte (siehe unten) sollen Schulen, Lehrpersonen und vor allem Schülerinnen und Schüler dabei unterstützt werden, die CO2-Sensoren selbst zu bauen. Dadurch wird die technische Lösung eines aktuellen gesundsheitspräventiven Problems zum pädagogischen Projekt.
+
+Wir nehmen an, dass, die Wirkung von selber bauen, programmieren, eigene Daten erheben und visualisierung neben dem Lerneffekt auch Einfluss auf das Engagement im Besonderen auf die gemessenen Werte hat:
 - die Messerwerte werden mehr beachtet 
 - es wird mehr gelüftet
 
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/IMG_20201027_090440267.jpg)
-Bild: Der Sensor blinkt gelb! Fenster lüften!
+Bild: Prototyp eines CO2-Sensors. Der Sensor blinkt gelb! Fenster lüften!
 
-Diese Do-It-Yourself-Methode kann aber auch genutzt werden um neben IoT/Physik auch praxisnahe Anwendungen in Programmierung (Stichwort [data literacy](https://www.data-literacy.ch/)) und Statistik (Stichwort statistical literacy) näher zu bringen. Dadurch können reale Statistik- und Programmierbeispiele verwendet werden. Beispielsweise kann man die Daten bei offenem und geschlosenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
+Diese Do-It-Yourself-Methode kann aber auch genutzt werden um neben IoT/Physik auch praxisnahe Anwendungen in Programmierung (Stichwort [data literacy](https://www.data-literacy.ch/)) und Statistik (Stichwort statistical literacy) näher zu bringen. Dadurch können reale Statistik- und Programmierbeispiele verwendet werden.
+
+Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
 
 Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFI werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
 
-Schulen können sich dadurch günstige CO2-Sensoren anzuschaffen, damit die Luft in Schulzimmern (und Lehrerzimmern) häufig gelüftet wird. Dadurch entstehen Vorteile bezüglich der Corona-Eindämmung und der Konzentration von Teilnehmenden. Der Preis, und das möchten wir betonen, sollte aber nicht das entscheidende Kriterium sein, da mittlerweile auch günstige CO2-Messgeräte auf dem Markt sind (siehe weiter unten).
-
 ![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/Figure_5.png)
 
-Bild: Nach dem öffnen des Fensters fällt der CO2-Anteil im Raum deutlich. Danach steigt es wieder an.
+Bild: Erste Auswertung der Daten des Prototyps. Nach dem öffnen des Fensters fällt die CO2-Konzentration im Raum deutlich. Danach steigt sie wieder an.
 
-# Kostenübersicht und Alternativen
+## Angebot für Schulen
 
+Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den Bau und die Nutzung von CO2-Sensoren als pädagogisches, technisches und gesundheitspräventives Vorhaben umsetzen möchten.
 
-## Geplante Kostenübersicht über vorgeschlagene Lösung für Schulen. (Lösung nach Markus Leutwyler vom Verein Make.Human.Technology)
+Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt werden:
+- gemeinsame Bestellung der Hardwarekomponenten zu attraktiven Preisen
+- Online-Anleitung zum Bau und Betrieb der Sensoren
+- (falls gewünscht) Beratung/Hilfestellung bei Bau und Betrieb durch Expertinnen und Experten in den Schulen/Klassen
+
+### Vorgehen
+
+1. Schulen und Lehrpersonen melden ihr Interesse über ein [Online-Formular](https://forms.gle/ZJn22fiJdYXvhJGA7) an.  
+Auf Basis dieser Angaben werden die definitiven Preise mit den Lieferanten verhandelt und die Anzahl der benötigten Expert/innen für die Beratung vor Ort ermittelt.
+2. Die interessierten Schulen bzw. Lehrpersonen werden für die definitive Bestellung kontaktiert.
+
+Die Organisation von Vertrieb und Bezahlung erfolgt ebenfalls auf der Basis der Interessensbekundungen.
+
+## Kostenübersicht und Alternativen
+
+### Geplante Kostenübersicht über vorgeschlagene Lösung für Schulen. (Lösung nach Markus Leutwyler vom Verein Make.Human.Technology)
 
 
 
@@ -63,7 +76,7 @@ Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden 
 - https://digital.ebp.ch/2020/10/27/co2-messgeraet-im-eigenbau-hardware/
 
   
-# Hintergrundinfos zu Sensoren
+## Hintergrundinfos zu Sensoren
 
 Es gibt eine wichtige Unterscheidung zwischen verschiedenen Arten von Sensoren. Einige sind günstiger und schätzen nur den CO2-Anteil, während andere den echten CO2-Anteil messen. **Um ein kurzes und verständliches Fazit vorwegzunehmen: Wir empfehlen den Schulen Sensoren mit NDIR (Non-Dispersive Infrared Sensors) und raten von MOX-Lösungen ab, die ungenau sind und lange Kalibrierungen brauchen**. 
 
@@ -84,13 +97,13 @@ Hier messen die Sensoren mit gewissen Wellenspektren das Licht nach CO2-Gehalt. 
 Das sind die genauesten Sensoren, die biochemisch, und somit sehr exakt, das CO2 in der Luft messen. Diese sind aber deutlich teurer und für solche Anwendungen wie hier ungeeignet.
 
   
-# Kauf von Einzelgeräten
+## Kauf von Einzelgeräten
   
 Falls Sie keine Sensoren selbst bauen möchten, können Sie in der folgenden Liste nach betriebsbereiten Geräten schauen. Folgend werden zunächst geeignete Anbieter aufgelistet. Geeignet bedeutet für uns, dass NDIR-Sensoren verwendet werden und die Preise relativ günstig sind. Weiter unten ist dann eine schwarze Liste mit Anbietern, die entweder die schlechteren MOX-Sensoren verwenden, oder die keine Angaben zu den Sensoren schreiben (und wir somit MOX vermuten), oder die viel teurer sind.
 
 Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung.
 
-## Gute Liste von betriebsbereiten CO2-Geräten
+### Gute Liste von betriebsbereiten CO2-Geräten
 
 |                              Anbieter                              | Kosten (siehe jeweils CHF oder EUR) |                                               PROs                                              |                                             CONs                                             |                                                                                                                                                                                                             Link                                                                                                                                                                                                            |
 |:------------------------------------------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|    
@@ -98,7 +111,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 vitales.ch                                                         | 109 CHF (545CHF pro 5Stück)         | Fertige Geräte; Relativ günstig wenn man in bulk kauft; NDIR-Sensor müsste eigentlich gut sein! | Schweizer Eigenproduktion? Wenig Infos über das Gerät und die Komponenten selbst.            | https://vitales.ch/aktionsangebote-co2-messgeraete/index.php/;focus=HSTPTP_cm4all_com_widgets_Shop_6837212&path=?subAction=showProduct&categoryId=32437&productId=136981#HSTPTP_cm4all_com_widgets_Shop_6837212                                                                                                                                                                                                             |
 
 
-## Schlechte Liste von betriebsbereiten CO2-Geräten
+### Schlechte Liste von betriebsbereiten CO2-Geräten
 
 |                              Anbieter                              | Kosten (siehe jeweils CHF oder EUR) |                                               PROs                                              |                                             CONs                                             |                                                                                                                                                                                                             Link                                                                                                                                                                                                            |
 |:------------------------------------------------------------------:|:-----------------------------------:|:-----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
