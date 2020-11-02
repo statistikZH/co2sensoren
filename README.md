@@ -23,7 +23,7 @@ Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen
 
 Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
 
-Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFI werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
+Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFi (oder LoRa) werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
 
 ![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/Figure_5.png)
 
@@ -35,7 +35,7 @@ Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den 
 
 Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt werden. Konkret sind folgende Angebote geplant:
 
-- **Hardware-Kits**, online bestellbar, zu attrativen Preisen
+- **Hardware-Kits**, online bestellbar, zu attraktiven Preisen
 - **Online-Ressourcen zu Bau und Betrieb**
 - **Schulung von Lehrpersonen zu Bau und Betrieb**
 - **Baubegleitung in den Schulen/Klassen**
@@ -43,7 +43,7 @@ Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Se
 
 Die Details der verschiedenen Angebote werden ausgearbeitet. 
 
-Ein Teil der Angebote wird für die Schulen kostenlos sein. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
+Die Angebote im Bereich der Statistical literacy und Data literacy werden für die Schulen kostenlos sein. Die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sowie die Hardware-Kits sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
 
 ### Vorgehen
 
@@ -75,8 +75,8 @@ Die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrag
 | Lichtsensor | CHF 0.44      |      
 | Motion sensor | CHF 0.81      |     
 | LoRa | CHF 20      |      
-| Selbstbau-Hülle aus 3D-Drucker | CHF 2     |       
-| TOTAL                                                          | 62.58 (82.58)     |                                                                                          |
+| Selbstbau-Hülle aus 3D-Drucker | CHF 8     |       
+| TOTAL                                                          | 68.58 (88.58)     |                                                                                          |
 
 Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich. 
 
