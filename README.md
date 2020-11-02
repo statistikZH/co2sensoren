@@ -39,11 +39,11 @@ Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Se
 - **Online-Ressourcen zu Bau und Betrieb**
 - **Schulung von Lehrpersonen zu Bau und Betrieb**
 - **Baubegleitung in den Schulen/Klassen**
-- **pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _Statististical literacy_ und _Data literacy_**, 
+- **pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _data and statististical literacy_**, 
 
 Die Details der verschiedenen Angebote werden ausgearbeitet. 
 
-Die Angebote im Bereich der Statistical literacy und Data literacy werden für die Schulen kostenlos sein. Die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sowie die Hardware-Kits sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
+Die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sowie die Hardware-Kits sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
 
 ### Vorgehen
 
