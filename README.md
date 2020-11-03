@@ -17,7 +17,7 @@ Indem Schülerinnen und Schüler CO2-Sensoren selber bauen, programmieren, Daten
 - es wird mehr gelüftet
 
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/co2ampel.jpg)
-Bild: Prototyp eines CO2-Sensors. Der Sensor leuchtet rot! Fenster lüften!
+Bild: Prototyp eines CO2-Sensors (v.l.n.r) Der Sensor leuchtet grün, alles ok. Orange, bitte bald lüften. Rot, bitte sofort lüften.
 
 Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Datennutzung (Stichwort [data literacy](https://www.data-literacy.ch/)), Programmierung und Statistik näherzubringen.
 
