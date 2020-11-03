@@ -41,7 +41,7 @@ Schulen bzw. Lehrpersonen werden bei der Beschaffung der Hardware für selbstgeb
 - **Begleitung der Schulen/Klassen beim Bau der Sensoren**
 - **Pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _data and statististical literacy_**, 
 
-Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Hardware-Kits sowie die Angebote im Bereich der Schulung und Begleitung sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
+Die anfallenden Kosten für die Angebote werden transparent ausgewiesen.
 
 ### Vorgehen
 
