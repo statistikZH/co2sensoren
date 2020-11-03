@@ -1,6 +1,6 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das Projekt wird inittiert [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung), dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerischen Gesellschaft für Statistik](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und von freiwilligen Unterstützerinnen und Unterstützern. Wir sind offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
+Das Projekt wird inittiert [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) in Partnerschaft mit dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerischen Gesellschaft für Statistik](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und von freiwilligen Unterstützerinnen und Unterstützern. Wir sind offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
 
 ## Projektidee
 
@@ -53,7 +53,7 @@ Diese Angaben dienen der detaillierten Ausarbeitung der Angebote sowie der zeitl
 Die interessierten Schulen bzw. Lehrpersonen werden aus erster Hand über die detaillierten Angebote informiert und können diese bestellen.
 
 3. **Lieferung und Nutzung der Angebote**  
-Die Lieferung der Hardware-Kits und die Nutzung der Angebote sind für die ersten ab Dezember geplant.
+Die Lieferung der Hardware-Kits und die Nutzung der Angebote sind für die ersten Schulen/Klassen ab Dezember geplant.
 
 Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrage nach den einzelnen Angeboten.
 
