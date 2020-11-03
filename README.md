@@ -65,11 +65,11 @@ Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine si
 
 |                          Budgetposten                          | Kosten (CHF) |     
 |:--------------------------------------------------------------:|:------------:|
-| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.12    | 
+| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.04 (Versand: 0.35/Stk. bei 100 Stk.)    | 
 |Sensirion SCD30 Sensor                                          | CHF 40         | 
 | Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            |
 | Netzteil                                                | CHF 1.95       | 
-| BME680 Sensor |$5.40|   
+| BME680 Sensor |$5.40 (Versand: 0.05/Stk. bei 100 Stk.) |   
 | LED-Ring (oder LED-Stick) | CHF 6.86 (bzw. CHF 5.44)      |      
 | Lichtsensor | CHF 0.44      |      
 | Motion sensor | CHF 0.81      |     
