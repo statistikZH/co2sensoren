@@ -84,6 +84,7 @@ Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden 
 - https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
 - https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
 - https://digital.ebp.ch/2020/10/27/co2-messgeraet-im-eigenbau-hardware/
+- https://github.com/urs8000/Simple_CO2_Ampel
 
   
 ## Hintergrundinfos zu Sensoren
