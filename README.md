@@ -1,6 +1,6 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung), dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerische Gesellschaft für Statistik ](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von freiwilligen Unterstützerinnen und Unterstützern. Wir sind auch offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
+Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung), dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerischen Gesellschaft für Statistik ](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von freiwilligen Unterstützerinnen und Unterstützern. Wir sind auch offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
 
 ## Projektidee
 
@@ -31,7 +31,7 @@ Bild: Erste Auswertung der Daten des Prototyps. Nach dem öffnen des Fensters f�
 
 ## Angebot für Schulen
 
-Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den Bau und die Nutzung von CO2-Sensoren als pädagogisches, technisches und gesundheitspräventives Vorhaben umsetzen möchten. Wir gehen davon aus, dass 
+Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den Bau und die Nutzung von CO2-Sensoren als pädagogisches, technisches und gesundheitspräventives Vorhaben umsetzen möchten.
 
 Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt werden. Konkret sind folgende Angebote geplant:
 
@@ -43,12 +43,12 @@ Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Se
 
 Die Details der verschiedenen Angebote werden ausgearbeitet. 
 
-Die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sowie die Hardware-Kits sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
+Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Hardware-Kits sowie die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
 
 ### Vorgehen
 
 1. **Interessensbekundung**  
-Schulen und Lehrpersonen melden ihr Interesse über das [Online-Formular](https://forms.gle/ZJn22fiJdYXvhJGA7) an.  
+Schulen und Lehrpersonen melden ihr Interesse über das <a href="https://forms.gle/ZJn22fiJdYXvhJGA7" rel="nofollow" target="_blank">Online-Formular</a> an.  
 Diese Angaben dienen der detaillierten Ausarbeitung der Angebote sowie der zeitlichen Planung.
 
 2. **konkrete Angebote**  
