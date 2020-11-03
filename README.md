@@ -1,19 +1,19 @@
 # CO2-Sensoren für Schulen - CO2 versus CO19!
 
-Das Projekt wurde vom [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) initiiert in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung), dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerischen Gesellschaft für Statistik ](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und auch mit Hilfe von freiwilligen Unterstützerinnen und Unterstützern. Wir sind auch offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
+Das Projekt wird inittiert [Statistischen Amt des Kanton Zürichs](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt.html) in Partnerschaft mit der [Bildungsplanung des Kantons Zürich](https://www.zh.ch/bildungsplanung), dem [Verein Make.Human.Technology](https://makehumantechnology.org) und der [Schweizerischen Gesellschaft für Statistik](https://stat.ch/de/), mit freundlicher Unterstützung von [MakeZurich](https://makezurich.ch) und von freiwilligen Unterstützerinnen und Unterstützern. Wir sind offen für weitere Kooperationen. Ansprechperson: Christian Ruiz, christian.ruiz@statistik.ji.zh.ch.
 
 ## Projektidee
 
-Im Mittelpunkt des Projekts steht die Idee einer CO2-Messung in Räumen und eines automatisierten Alarms, welcher zum Lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist.
+Im Mittelpunkt des Projekts steht die CO2-Messung in Räumen mit einem integrierten Alarm, welcher zum Lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist.
 
 Häufiges Lüften ist eine der Massnahmen, die das Bundesamt für Gesundheit empfiehlt, um das Risiko einer Ansteckung mit dem Coronavirus zu reduzieren (siehe [BAG, 27.10.2020](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html)).
 
 Insbesondere in Schulräumen mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar, auch unabhängig von der aktuellen Pandemiesituation ([BAG, 2019](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html); [Bähring, 2013](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html)).
 
-Alternativ zum Kauf betriebsbereiter CO2-Messgeräte (siehe unten) sollen Schulen, Lehrpersonen und vor allem Schülerinnen und Schüler dabei unterstützt werden, die CO2-Sensoren selbst zu bauen. Dadurch wird die technische Lösung eines aktuellen gesundsheitspräventiven Problems zum pädagogischen Projekt.
+Betriebsbereite CO2-Messgeräte können relativ kostengünstig gekauft werden (siehe weiter unten). Lehrpersonen und Schülerinnen und Schüler können CO2-Sensoren aber auch selbst bauen. Gesundheitsprävention wird so zum pädagogischen Projekt im technischen Bereich.
 
-Wir nehmen an, dass die Wirkung von selber bauen, programmieren, eigene Daten erheben und visualisieren neben dem Lerneffekt auch Einfluss auf das gemessene Phänomen selber hat:
-- die Messerwerte werden mehr beachtet 
+Indem Schülerinnen und Schüler CO2-Sensoren selber bauen, programmieren, Daten erheben und visualisieren, erwerben sie wichtige Kompetenzen und werden sensibilisiert für das Thema des CO2-Gehalts:
+- die Messwerte werden vermehrt beachtet 
 - es wird mehr gelüftet
 
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/co2ampel.jpg)
@@ -21,29 +21,27 @@ Bild: Prototyp eines CO2-Sensors. Der Sensor leuchtet rot! Fenster lüften!
 
 Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Datennutzung (Stichwort [data literacy](https://www.data-literacy.ch/)), Programmierung und Statistik näherzubringen.
 
-Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum blinken bringen und erzeugt damit einen Zusammenhang zwischen Code und Realität. 
+Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum Blinken bringen und damit einen realen Effekt programmieren.
 
-Es lassen sich auch mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFi (oder LoRa) werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
+Es lassen sich mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFi (oder LoRa) werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
 
 ![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/Figure_5.png)
 
-Bild: Erste Auswertung der Daten des Prototyps. Nach dem öffnen des Fensters fällt die CO2-Konzentration im Raum deutlich. Danach steigt sie wieder an.
+Bild: Erste Auswertung der Daten des Prototyps. Nach dem Öffnen des Fensters fällt die CO2-Konzentration im Raum deutlich ab. Danach steigt sie wieder an.
 
 ## Angebot für Schulen
 
 Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den Bau und die Nutzung von CO2-Sensoren als pädagogisches, technisches und gesundheitspräventives Vorhaben umsetzen möchten.
 
-Schulen bzw. Lehrpersonen sollen bei der Beschaffung der Hardware für solche Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt werden. Konkret sind folgende Angebote geplant:
+Schulen bzw. Lehrpersonen werden bei der Beschaffung der Hardware für selbstgebaute CO2-Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt. Dies umfasst folgende Angebote:
 
-- **Hardware-Kits**, online bestellbar, zu attraktiven Preisen
+- **Hardware-Kits**, (Richtpreise siehe unten)
 - **Online-Ressourcen zu Bau und Betrieb**
 - **Schulung von Lehrpersonen zu Bau und Betrieb**
-- **Baubegleitung in den Schulen/Klassen**
-- **pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _data and statististical literacy_**, 
+- **Begleitung der Schulen/Klassen beim Bau der Sensoren**
+- **Pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _data and statististical literacy_**, 
 
-Die Details der verschiedenen Angebote werden ausgearbeitet. 
-
-Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Hardware-Kits sowie die Angebote im Bereich der Schulung und Begleitung von Schulklassen zu Bau und Betrieb sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
+Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen kostenlos sein. Die Hardware-Kits sowie die Angebote im Bereich der Schulung und Begleitung sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.
 
 ### Vorgehen
 
@@ -51,12 +49,13 @@ Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical li
 Schulen und Lehrpersonen melden ihr Interesse über das <a href="https://forms.gle/ZJn22fiJdYXvhJGA7" rel="nofollow" target="_blank">Online-Formular</a> an.  
 Diese Angaben dienen der detaillierten Ausarbeitung der Angebote sowie der zeitlichen Planung.
 
-2. **konkrete Angebote**  
-Die interessierten Schulen bzw. Lehrpersonen werden aus erster Hand über die detaillierten Angebote informiert und können diese als Erste bestellen.
+2. **Bestellung**  
+Die interessierten Schulen bzw. Lehrpersonen werden aus erster Hand über die detaillierten Angebote informiert und können diese bestellen.
 
-3. **Pilotschulen**  
-Die ersten Schulen können die Angebote ab Anfang Dezember nutzen.  
-Die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrage nach den einzelnen Angeboten.
+3. **Lieferung und Nutzung der Angebote**  
+Die Lieferung der Hardware-Kits und die Nutzung der Angebote sind für die ersten ab Dezember geplant.
+
+Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrage nach den einzelnen Angeboten.
 
 ## Kostenübersicht und Alternativen
 
