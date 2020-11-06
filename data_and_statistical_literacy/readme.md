@@ -1,1 +1,1 @@
-![Statistical Literacy](https://github.com/statistikZH/co2sensoren/blob/main/media/statistical_literacy.png)
+![Statistical Thinking](https://github.com/statistikZH/co2sensoren/blob/main/media/statistical_thinking.png)
