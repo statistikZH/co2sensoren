@@ -86,7 +86,7 @@ Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden 
 - https://digital.ebp.ch/2020/10/27/co2-messgeraet-im-eigenbau-hardware/
 - https://www.un-hack-bar.de/2020/10/25/co2-ampeln-fuer-alle/
 - https://github.com/urs8000/Simple_CO2_Ampel
-
+- https://github.com/bastelgarage/co2ampel
   
 ## Hintergrundinfos zu Sensoren
 
