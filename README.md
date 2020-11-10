@@ -67,7 +67,7 @@ Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine si
 
 - Die Schulen bzw. Lehrpersonen sowie Schülerinnen und Schüler können ihre eigenen Daten sowie die freigegebenen Daten anderer Schulen über den zentralen Server beziehen und damit Datenauswertungen und Visualisierungen unternehmen.
 
-[Das gesamte Datennutzungskonzept ist unter diesem Link verfügbar](https://github.com/statistikZH/co2sensoren/projektdateien/Datennutzungskonzept_CO2vsCO19_v1_0.pdf).
+[Das gesamte Datennutzungskonzept ist unter diesem Link verfügbar](https://github.com/statistikZH/co2sensoren/blob/projektdateien/Datennutzungskonzept_CO2vsCO19_v1_0.pdf).
 
 ## Kostenübersicht und Alternativen
 
