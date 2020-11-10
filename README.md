@@ -57,6 +57,18 @@ Die Lieferung der Hardware-Kits und die Nutzung der Angebote sind für die erste
 
 Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrage nach den einzelnen Angeboten.
 
+### Datennutzungskonzept
+
+- Die Sensoren übermitteln die Daten auf einem gesicherten Weg über WiFi oder LoRa an einen **zentralen Server**. 
+
+- Die auf dem Server gespeicherten Daten und Metadaten sind **anonymisiert**, so dass einzelne Schulen nicht identifiziert werden können.
+
+- Die Schulen sind **Dateneigentümer** der Daten "ihrer" Sensoren. Sie können ihre Daten auf dem Server löschen lassen. Sie können ihre anonymisierten Daten zur Verwendung auf kantonaler Ebene freigeben (Opt-In).
+
+- Die Schulen bzw. Lehrpersonen sowie Schülerinnen und Schüler können ihre eigenen Daten sowie die freigegebenen Daten anderer Schulen über den zentralen Server beziehen und damit Datenauswertungen und Visualisierungen unternehmen.
+
+Das Datennutzungskonzept wird in den nächsten Tagen auf dieser Seite verfügbar gemacht.
+
 ## Kostenübersicht und Alternativen
 
 ### Geplante Kostenübersicht über vorgeschlagene Lösung für Schulen. (Lösung nach Markus Leutwyler vom Verein Make.Human.Technology)
