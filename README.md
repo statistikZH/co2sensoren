@@ -149,3 +149,8 @@ CO2-Ampel                                                        | 149 CHF      
 
 ## Weitere Infos zu Lüftung
 - https://www.stuttgarter-zeitung.de/inhalt.studie-zur-belueftung-von-innenraeumen-schema-f-hilft-beim-lueften-nicht-weiter.057ab991-e675-49dd-821a-e2a846ef735c.html
+
+## Luftfeuchtigkeit spielt auch eine Rolle
+Die [Universität von Sidney](https://www.sciencedaily.com/releases/2020/08/200818094028.htm#:~:text=Lower%20humidity%20can%20be%20defined,increase%20by%207%2D8%20percent.&text=The%20estimate%20is%20about%20a,percent%20drop%20in%20relative%20humidity) hat herausgefunden, dass pro Prozentpunkt Rückgang der Luftfeuchtigkeit, die Ansteckungsgefahr durch COVID-19 um 7-8% steigt. Das Lüften von Räumen im Winter erhöht auch die Luftfeuchtigkeit leicht. Wir können nur mutmassen, ob das Lüften ausreicht, um auch die Ansteckungsgefahr leicht zu reduzieren in Innenräumen. Auf alle Fälle befinden sich auf den CO2-Geräten auch Sensoren für Luftfeuchtigkeit und Temperatur. Wir werden diese Frage weiterverfolgen. 
+
+
