@@ -6,7 +6,7 @@ Das Projekt wird initiiert vom [Statistischen Amt des Kanton Zürichs](https://w
 
 Im Mittelpunkt des Projekts steht die CO2-Messung in Räumen mit einem integrierten Alarm, welcher zum Lüften aufruft, wenn der CO2-Gehalt im Raum zu hoch ist.
 
-Häufiges Lüften ist eine der Massnahmen, die das Bundesamt für Gesundheit empfiehlt, um das Risiko einer Ansteckung mit dem Coronavirus zu reduzieren (siehe [BAG, 27.10.2020](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html)).
+Häufiges Lüften ist eine der Massnahmen, die das Bundesamt für Gesundheit empfiehlt, um das Risiko einer Ansteckung mit dem Coronavirus zu reduzieren (siehe [BAG, 27.10.2020](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/so-schuetzen-wir-uns.html) und auch [TU Berlin](https://www.tu.berlin/ueber-die-tu-berlin/profil/pressemitteilungen-nachrichten/2020/august/coronavirus-richtig-lueften-will-gelernt-sein/)).
 
 Insbesondere in Schulräumen mit vielen Teilnehmenden ist eine gute Belüftung unabdingbar, auch unabhängig von der aktuellen Pandemiesituation ([BAG, 2019](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/medienmitteilungen.msg-id-74177.html); [Bähring, 2013](https://www.abendblatt.de/ratgeber/wissen/article118467141/Warum-macht-uns-verbrauchte-Luft-in-stickigen-Raeumen-muede.html)).
 
