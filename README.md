@@ -25,7 +25,7 @@ Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen u
 
 Es lassen sich mehrere CO2-Sensoren aus der Ferne beobachten. Durch WiFi (oder LoRa) werden Daten übermittelt, die wir dann als Open Data zur Verfügung stellen. 
 
-![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/Figure_5.png)
+![Nach dem öffnen des Fensters fällt das CO2 im Raum](https://github.com/statistikZH/co2sensoren/blob/main/media/dashboard2.png)
 
 Bild: Erste Auswertung der Daten des Prototyps. Nach dem Öffnen des Fensters fällt die CO2-Konzentration im Raum deutlich ab. Danach steigt sie wieder an.
 
