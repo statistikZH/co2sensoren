@@ -83,9 +83,9 @@ Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine si
 | Netzteil                                                | CHF 1.95       | 
 | BME680 Sensor |$5.40 (Versand: 0.05/Stk. bei 100 Stk.) |   
 | LED-Ring  | CHF 6.86      |      
-| Bridge boards | CHF 0.55      |           
-| LoRa | CHF 20      |      
-| Selbstbau-Hülle aus 3D-Drucker | CHF 8     |       
+| Bridge boards | CHF 0.55      |              
+| Selbstbau-Hülle aus 3D-Drucker | CHF 8     |     
+| Fakultativ: LoRa | (CHF 20)      |   
 | TOTAL                                                          | 62.86 (82.86)     |                                                                                          |
 
 Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich. 
