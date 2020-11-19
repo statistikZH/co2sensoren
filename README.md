@@ -139,9 +139,9 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 
 | Anbieter                                                          | Kosten (siehe jeweils CHF oder EUR) | PROs           | CONs                                                                                         |
 |-------------------------------------------------------------------|-------------------------------------|----------------|----------------------------------------------------------------------------------------------|
-| TFA Dostmann AIRCO2NTROL MINI Kohlendioxid-Messgerät  | 98                                  |                | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht. |
+| TFA Dostmann AIRCO2NTROL MINI | 98                                  |                | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht. |
 | Orium by Cep CO2                                                  | 113                                 |                | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                  |
-| theben-hts.ch                                                     | Keine Preisangabe (etwa 325CHF laut |                | teuer                                                                                        |
+| theben-hts.ch                                                     | Keine Preisangabe (etwa 325CHF) |                | teuer                                                                                        |
 | epulse ee80                                                       | 227 EUR                             |                | teuer                                                                                        |
 | Kkmoon                                                            | 25 EUR (plus Lieferung)             | Sehr günstig | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                              |
 | Faraone4w                                                         | 30EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
