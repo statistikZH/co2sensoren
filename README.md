@@ -132,7 +132,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 | Anbieter             | Kosten (siehe jeweils CHF oder EUR) | PROs                                                | CONs                                                                              |
 |----------------------|-------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|
 | UT A37 CO2-Messgerät | 98                                  | Günstig, NDIR-Sensor                                |                                                                                   |
-| vitales.ch           | 109 CHF (545CHF pro 5Stück)         | Relativ günstig wenn man in bulk kauft; NDIR-Sensor | Schweizer Eigenproduktion? Wenig Infos über das Gerät und die Komponenten selbst. |
+| vitales.ch           | 109 CHF (545 CHF pro 5 Stück)         | Relativ günstig wenn man in bulk kauft; NDIR-Sensor | Schweizer Eigenproduktion? Wenig Infos über das Gerät und die Komponenten selbst. |
 | CO2-Ampel.ch     | 149 CHF                             | Fertige Geräte; NDIR-Sensor; Schweizer Produktion   |                                                                                   |
 
 ### Schlechte Liste von betriebsbereiten CO2-Geräten
@@ -141,10 +141,10 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 |-------------------------------------------------------------------|-------------------------------------|----------------|----------------------------------------------------------------------------------------------|
 | TFA Dostmann AIRCO2NTROL MINI | 98                                  |                | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht. |
 | Orium by Cep CO2                                                  | 113                                 |                | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                  |
-| theben-hts.ch                                                     | Keine Preisangabe (etwa 325CHF) |                | teuer                                                                                        |
+| theben-hts.ch                                                     | Keine Preisangabe (etwa 325 CHF) |                | teuer                                                                                        |
 | epulse ee80                                                       | 227 EUR                             |                | teuer                                                                                        |
 | Kkmoon                                                            | 25 EUR (plus Lieferung)             | Sehr günstig | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                              |
-| Faraone4w                                                         | 30EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
+| Faraone4w                                                         | 30 EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
 
 ## Weitere Infos zu Lüftung
 - https://www.stuttgarter-zeitung.de/inhalt.studie-zur-belueftung-von-innenraeumen-schema-f-hilft-beim-lueften-nicht-weiter.057ab991-e675-49dd-821a-e2a846ef735c.html
