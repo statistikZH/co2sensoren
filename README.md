@@ -133,7 +133,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 |----------------------|-------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------|
 | UT A37 CO2-Messgerät | 98                                  | Günstig, NDIR-Sensor                                |                                                                                   |
 | vitales.ch           | 109 CHF (545CHF pro 5Stück)         | Relativ günstig wenn man in bulk kauft; NDIR-Sensor | Schweizer Eigenproduktion? Wenig Infos über das Gerät und die Komponenten selbst. |
-| www.CO2-Ampel.ch     | 149 CHF                             | Fertige Geräte; NDIR-Sensor; Schweizer Produktion   |                                                                                   |
+| CO2-Ampel.ch     | 149 CHF                             | Fertige Geräte; NDIR-Sensor; Schweizer Produktion   |                                                                                   |
 
 ### Schlechte Liste von betriebsbereiten CO2-Geräten
 
