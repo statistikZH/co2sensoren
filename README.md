@@ -139,7 +139,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 
 | Anbieter                                                          | Kosten (siehe jeweils CHF oder EUR) | PROs           | CONs                                                                                         |
 |-------------------------------------------------------------------|-------------------------------------|----------------|----------------------------------------------------------------------------------------------|
-| TFA Dostmann AIRCO2NTROL MINI Kohlendioxid-Messgerät 0 - 3000 ppm | 98                                  |                | Sagt NIRGENDWO, welcher Sensor installiert ist. Also wahrscheinlich NOX-Sensor und schlecht. |
+| TFA Dostmann AIRCO2NTROL MINI Kohlendioxid-Messgerät 0 - 3000 ppm | 98                                  |                | Sagt nirgendwo, welcher Sensor installiert ist. Also wahrscheinlich NOX-Sensor und schlecht. |
 | Orium by Cep CO2                                                  | 113                                 |                | Keine Informationen. Müsste NOX-Sensor sein                                                  |
 | theben-hts.ch                                                     | Keine Preisangabe (etwa 325CHF laut |                | teuer                                                                                        |
 | epulse ee80                                                       | 227 EUR                             |                | teuer                                                                                        |
