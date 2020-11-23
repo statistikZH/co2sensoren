@@ -147,7 +147,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 | Faraone4w                                                         | 30 EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
 
 ## Richtiges Lüften: Tipps des Bundesamts für Gesundheit
-Die folgenden Informationen durften wir mit freundlicher Unterstützung des Bundesamts für Gesundheit (Fachstelle Wohngifte) abdrucken. 
+Die folgenden Informationen durften wir mit freundlicher Unterstützung des Bundesamts für Gesundheit (BAG, Fachstelle Wohngifte) abdrucken. 
 
 Um Ansteckungsrisiken mit dem neuen Coronavirus in Schulen zu vermindern, gelten die Schutzkonzepte. Die bekannten Corona-Regeln «Abstand halten, wenn nötig Masken tragen und die Hände regelmässig gründlich waschen» sind dabei zentral. Zusätzlich ist es während der Coronavirus-Epidemie besonders wichtig, dass Schulzimmer regelmässiggelüftet werden. Ein Video und die nachfolgenden Tipps veranschaulichen, worauf es beim Lüften ankommt. Weil die vorgestellten Lüftungsregeln darauf abzielen, dass die Raumluftqualität in den Schulzimmern möglichst lange gut ist, sollten sie auch beim Einsatzvon Luftampeln beachtet werden. 
 
@@ -162,7 +162,7 @@ Mithilfe der Luftampeln lässt sich sicherstellen, dass der hygienischeGrenzwert
 
 ### Häufige Fehler:
 ![Falsches Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/schlechtes_lueften.png)
--	Zu kurzes Lüften. Die Pausen deshalb voll zum Lüften ausnutzen ( oder mit dem «[SIMARIA](https://www.schulen-lueften.ch/de/simaria)»-Tool des BAG die  Lüftungsdauer ermitteln ). 
+-	Zu kurzes Lüften. Die Pausen deshalb voll zum Lüften ausnutzen ( oder mit dem «[SIMARIA](https://www.schulen-lueften.ch/de/simaria)»-Tool des BAG die  Lüftungsdauer abschätzen ). 
 -	Gegenstände auf den Fenstersims stellen. Diese verhindern ein unkompliziertes und vollständiges Öffnen der Fenster. 
 -	Lüften mit offener Schulzimmertür, ohne Korridorfenster zu öffnen. Dadurch kann verbrauchte Luft in das Schulzimmer gelangen. 
 
