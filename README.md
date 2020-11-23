@@ -147,7 +147,7 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 | Faraone4w                                                         | 30 EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
 
 ## Richtiges Lüften: Tipps des Bundesamts für Gesundheit
-Die folgenden Informationen durften wir mit freundlicher Unterstützung des BAG abdrucken. 
+Die folgenden Informationen durften wir mit freundlicher Unterstützung des Bundesamts für Gesundheit (Fachstelle Wohngifte) abdrucken. 
 
 Um Ansteckungsrisiken mit dem neuen Coronavirus in Schulen zu vermindern, gelten die Schutzkonzepte. Die bekannten Corona-Regeln «Abstand halten, wenn nötig Masken tragen und die Hände regelmässig gründlich waschen» sind dabei zentral. Zusätzlich ist es während der Coronavirus-Epidemie besonders wichtig, dass Schulzimmer regelmässiggelüftet werden. Ein Video und die nachfolgenden Tipps veranschaulichen, worauf es beim Lüften ankommt. Weil die vorgestellten Lüftungsregeln darauf abzielen, dass die Raumluftqualität in den Schulzimmern möglichst lange gut ist, sollten sie auch beim Einsatzvon Luftampeln beachtet werden. 
 
