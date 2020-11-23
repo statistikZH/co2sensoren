@@ -146,8 +146,25 @@ Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden ha
 | Kkmoon                                                            | 25 EUR (plus Lieferung)             | Sehr günstig | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                              |
 | Faraone4w                                                         | 30 EUR (plus Lieferung)              | Sehr günstig  | Keine Angabe zu Sensor-Typ. Also wahrscheinlich NOX-Sensor und schlecht.                                                                 |
 
-## Weitere Infos zu Lüftung
-- https://www.stuttgarter-zeitung.de/inhalt.studie-zur-belueftung-von-innenraeumen-schema-f-hilft-beim-lueften-nicht-weiter.057ab991-e675-49dd-821a-e2a846ef735c.html
+## Richtiges Lüften: Tipps des Bundesamts für Gesundheit
+Die folgenden Informationen durften wir mit freundlicher Unterstützung des BAG abdrucken. 
 
+Um Ansteckungsrisiken mit dem neuen Coronavirus in Schulen zu vermindern, gelten die Schutzkonzepte. Die bekannten Corona-Regeln «Abstand halten, wenn nötig Masken tragen und die Hände regelmässig gründlich waschen» sind dabei zentral. Zusätzlich ist es während der Coronavirus-Epidemie besonders wichtig, dass Schulzimmer regelmässiggelüftet werden. Ein Video und die nachfolgenden Tipps veranschaulichen, worauf es beim Lüften ankommt. Weil die vorgestellten Lüftungsregeln darauf abzielen, dass die Raumluftqualität in den Schulzimmern möglichst lange gut ist, sollten sie auch beim Einsatzvon Luftampeln beachtet werden. 
 
+Mithilfe der Luftampeln lässt sich sicherstellen, dass der hygienischeGrenzwert von 2000 ppm CO2 (Spitzenwert) während des Unterrichts nicht überschritten wird (maximal während 10% der Unterrichtszeit). Wenn immer möglich empfiehlt das BAG einen Maximalwert von 1400 ppm anzustreben. Dazu ist allenfalls zusätzlich zu den Pausenlüftungeneine weitere Lüftung während der Lektionen nötig. Es sollte ein systematisches Lüftungsverhalten eingeübt werden, welches sich noch mit dem Schulunterricht vereinbaren lässt und auch nach der Epidemie beibehalten werden kann. Denn gute Luft im Schulzimmererhöht die Leistungsfähigkeit, verbessert Symptome von Allergikern und Asthmatikern und wirkt Müdigkeit, Schleimhautreizungen und Kopfschmerzen entgegen.
+
+![Die 8 Lüftungstipps des BAG](https://github.com/statistikZH/co2sensoren/blob/main/media/lueftungstipps.png)
+
+* Ideal: Die notwendige Lüftungsdauer mit [SIMARIA](https://www.schulen-lueften.ch/de/simaria) berechnen.
+
+### Richtig:
+![Gutes Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/gutes_luefen.png)
+
+### Häufige Fehler
+![Falsches Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/schlechtes_lueften.png)
+-	Zu kurzes Lüften. Die Pausen deshalb voll zum Lüften ausnutzen ( oder mit dem «[SIMARIA](https://www.schulen-lueften.ch/de/simaria)»-Tool des BAG die  Lüftungsdauer ermitteln ). 
+-	Gegenstände auf den Fenstersims stellen. Diese verhindern ein unkompliziertes und vollständiges Öffnen der Fenster. 
+-	Lüften mit offener Schulzimmertür, ohne Korridorfenster zu öffnen. Dadurch kann verbrauchte Luft in das Schulzimmer gelangen. 
+
+Weitere Informationen des BAG zum richtigen Lüften finden Sie unter [schulen-lueften](www.schulen-lueften.ch) und unter [SIMARIA](https://www.schulen-lueften.ch/de/simaria).
 
