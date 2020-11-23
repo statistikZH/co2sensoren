@@ -153,12 +153,12 @@ Um Ansteckungsrisiken mit dem neuen Coronavirus in Schulen zu vermindern, gelten
 
 Mithilfe der Luftampeln lässt sich sicherstellen, dass der hygienischeGrenzwert von 2000 ppm CO2 (Spitzenwert) während des Unterrichts nicht überschritten wird (maximal während 10% der Unterrichtszeit). Wenn immer möglich empfiehlt das BAG einen Maximalwert von 1400 ppm anzustreben. Dazu ist allenfalls zusätzlich zu den Pausenlüftungeneine weitere Lüftung während der Lektionen nötig. Es sollte ein systematisches Lüftungsverhalten eingeübt werden, welches sich noch mit dem Schulunterricht vereinbaren lässt und auch nach der Epidemie beibehalten werden kann. Denn gute Luft im Schulzimmererhöht die Leistungsfähigkeit, verbessert Symptome von Allergikern und Asthmatikern und wirkt Müdigkeit, Schleimhautreizungen und Kopfschmerzen entgegen.
 
-![Die 8 Lüftungstipps des BAG](https://github.com/statistikZH/co2sensoren/blob/main/media/lueftungstipps.png)
+![Die 8 Lüftungstipps des BAG](https://github.com/statistikZH/co2sensoren/blob/main/media/lueftungstipps.PNG)
 
 * Ideal: Die notwendige Lüftungsdauer mit [SIMARIA](https://www.schulen-lueften.ch/de/simaria) berechnen.
 
 ### Richtig:
-![Gutes Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/gutes_luefen.png)
+![Gutes Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/gutes_lueften.png)
 
 ### Häufige Fehler
 ![Falsches Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/schlechtes_lueften.png)
