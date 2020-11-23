@@ -47,3 +47,7 @@ po/*~
 # files 
 *.Rproj
 *.jeff
+
+# directories
+code/*
+
