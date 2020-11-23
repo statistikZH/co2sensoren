@@ -155,7 +155,7 @@ Mithilfe der Luftampeln lässt sich sicherstellen, dass der hygienischeGrenzwert
 
 ![Die 8 Lüftungstipps des BAG](https://github.com/statistikZH/co2sensoren/blob/main/media/lueftungstipps.PNG)
 
-* Ideal: Die notwendige Lüftungsdauer mit [SIMARIA](https://www.schulen-lueften.ch/de/simaria) berechnen.
+*Ideal: Die notwendige Lüftungsdauer mit [SIMARIA](https://www.schulen-lueften.ch/de/simaria) berechnen.
 
 ### Richtig:
 ![Gutes Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/gutes_lueften.png)
