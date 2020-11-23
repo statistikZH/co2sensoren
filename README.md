@@ -160,7 +160,7 @@ Mithilfe der Luftampeln lässt sich sicherstellen, dass der hygienischeGrenzwert
 ### Richtig:
 ![Gutes Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/gutes_lueften.png)
 
-### Häufige Fehler
+### Häufige Fehler:
 ![Falsches Lüften](https://github.com/statistikZH/co2sensoren/blob/main/media/schlechtes_lueften.png)
 -	Zu kurzes Lüften. Die Pausen deshalb voll zum Lüften ausnutzen ( oder mit dem «[SIMARIA](https://www.schulen-lueften.ch/de/simaria)»-Tool des BAG die  Lüftungsdauer ermitteln ). 
 -	Gegenstände auf den Fenstersims stellen. Diese verhindern ein unkompliziertes und vollständiges Öffnen der Fenster. 
