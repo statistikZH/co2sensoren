@@ -1,0 +1,61 @@
+/* Extra CSS */
+.bottom {
+  position: fixed;
+  text-align: right;
+  font-family: "Fira Mono";
+  line-height: 0.7;
+  right: 0;
+  bottom: 0;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+
+.big {
+  font-size: 250%;
+}
+
+.small {
+  font-size: 80%;
+}
+
+/* https://github.com/yihui/xaringan/wiki/Progressbar */
+.remark-slide-number {
+  position: inherit;
+}
+
+.remark-slide-number .progress-bar-container {
+  position: absolute;
+  bottom: 0;
+  height: 8px;
+  display: block;
+  left: 0;
+  right: 0;
+}
+
+.remark-slide-number .progress-bar {
+  height: 100%;
+  background-color: #187BA2;
+}
+
+.title-slide .remark-slide-number .progress-bar-container {
+  height: 0px;
+}
+
+
+/* -----------div tips------------- */
+/* https://desiree.rbind.io/post/2019/making-tip-boxes-with-bookdown-and-rmarkdown/ */
+
+div.puzzle, div.fyi, div.demo, div.note {
+    padding: 1em;
+    margin: 1em 0;
+    padding-left: 100px;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+    min-height: 120px;
+    color: #1f5386;
+    background-color: #bed3ec;
+    border: solid 5px #dfedff;
+  }
+  
+  

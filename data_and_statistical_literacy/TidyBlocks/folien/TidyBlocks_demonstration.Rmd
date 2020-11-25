@@ -1,0 +1,122 @@
+---
+title: "TidyBlocks - Ein Tool für Data Science im Schulunterricht"
+subtitle: "Demonstration"  
+author: "Lars Schöbitz"
+date: '25. November 2020'
+output:
+  xaringan::moon_reader:
+    self_contained: false
+    lib_dir: libs
+    css: ["xaringan-themer.css", "my-css-style.css"]
+    seal: FALSE
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      highlightStyle: solarized-light
+      highlightLanguage: ["r", "css", "yaml"]
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+```{r child = "setup.Rmd"}
+
+```
+
+```{r packages, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(htmltools)
+
+```
+
+class: title-slide
+
+# `r rmarkdown::metadata$title`
+## `r rmarkdown::metadata$subtitle` 
+
+.bottom[
+
+```{r, echo=FALSE}
+p(rmarkdown::metadata$author)
+p("Statistisches Amt des Kantons Zürich")
+p(rmarkdown::metadata$date)
+```
+]
+
+
+???
+
+- Hallo Zäma und merci, dass ihr euch dieses Video anschaut.
+- Ich möchte euch TidyBlocks vorstellen, ein Tool welches für das CO2 Projekt Bereich Data Literacy genutzt werden könnte.
+- Und bevor ich hier nun viel dazu erzähle, gehen wir direkt in eine Demo über.
+
+---
+class: inverse, middle, center
+
+# Tidyblocks Demonstration 
+# https://tidyblocks.tech/
+
+```{r}
+
+countdown(minutes = 15)
+
+```
+
+???
+
+- Ich habe mir als Ziel gesetzt diese in 15 Minuten durch zu ziehen. Schauen wir ob es klappt
+
+---
+# Warum TidyBlocks
+
+.pull-left[
+
+**Schüler**
+
+- Zielgruppe sind Schüler im Alter von etwa 10 bis 18 Jahren
+- Block-basiertes Programmieren ist zugänglich für Anfänger 
+- Erleichtert Übergang zu text-basierter Programmiersprache (z.B. R)
+- Nachteil: Momentan nicht auf Deutsch verfügbar (Möglichkeit für einen Hackathon?)
+
+]
+
+.pull-right[
+
+**Lehrer**
+
+- Keine steile Lernkurve
+- Tool kann auch zukünftig einfach in Unterrichtseinheiten integriert werden
+- Es kann gezielt mit R weiter gearbeitet werden (z.B. als Wahlfach)
+
+]
+
+---
+# Under the Hood 
+
+- Open Source
+- Es braucht keine Registrierung
+- Braucht lediglich einen Browser und Internetzugang
+- Läuft komplett im Browser ohne Back-end Server 
+- Nutzt das [simple statistics](https://simplestatistics.org/) JavaScript Package
+
+---
+# The Hippocratic License
+
+- Offene Lizenz welche zu jeglichem Nutzen erlaubt 
+- Mit einer Einschänkung: 
+    - Es darf nicht gegen grundlegende Menschenrechtsgesetze verstossen
+    - [Universal Declaratrion of Human Rights](https://www.un.org/en/universal-declaration-human-rights/)
+- Mehr hier: https://firstdonoharm.dev/
+
+---
+# Danke
+
+- Für's Zuschauen.
+- Für die R packages [{xaringan}](https://github.com/yihui/xaringan) und [{xaringanthemer}](https://github.com/gadenbuie/xaringanthemer) mit welchen die Folien geschrieben wurden.
+- Für die Arbeit der Autoren an TidyBlocks: https://tidyblocks.tech/authors/
+- Quellcode der Folien und eine [PDF Version]() sind im GitHub Repository [statistikZH/co2sensoren](https://github.com/statistikZH/rstatsZH) verfügbar.
+
+

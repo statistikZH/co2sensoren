@@ -1,0 +1,58 @@
+```{r setup, include=FALSE}
+
+# R options
+options(
+  htmltools.dir.version = FALSE,
+  dplyr.print_min = 6, 
+  dplyr.print_max = 6,
+  width = 100
+  )
+# figure height, width, dpi
+# figure height, width, dpi
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE, 
+                      eval = TRUE,
+                      fig.width = 6, 
+                      fig.asp = 0.5,
+                      out.width = "100%",
+                      fig.align = "center",
+                      dpi = 300,
+                      message = FALSE)
+# set seed
+set.seed(1234)
+# fontawesome
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+# magick
+dev.off <- function(){
+  invisible(grDevices::dev.off())
+}
+# countdown
+library(countdown)
+# conflicted
+library(conflicted)
+conflict_prefer("filter", "dplyr")
+
+# xaringanthemer
+library(xaringanthemer)
+
+## slide style 
+style_mono_accent(
+  base_color = "#0F4C81", # Pantone Classic Blue
+  header_font_google = google_font("Montserrat"),
+  code_font_google = google_font("Fira Mono"),
+  text_font_size = "1.4rem", 
+  header_h1_font_size = "2.0rem",
+  header_h2_font_size = "1.75rem",
+  header_h3_font_size = "1.5rem",
+  footnote_font_size = "0.8rem",
+  footnote_position_bottom = "20px",
+  header_background_padding = "2rem",
+  outfile = here::here("data_and_statistical_literacy/TidyBlocks/folien/xaringan-themer.css")
+)
+
+#fontawesome
+library(fontawesome)
+
+```
+
+
