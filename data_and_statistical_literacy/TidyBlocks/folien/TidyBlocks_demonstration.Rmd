@@ -1,6 +1,6 @@
 ---
 title: "TidyBlocks - Ein Tool für Data Science im Schulunterricht"
-subtitle: "Demonstration"  
+subtitle: "Demonstration - Projekt CO2 vs CO19"  
 author: "Lars Schöbitz"
 date: '25. November 2020'
 output:
@@ -42,6 +42,7 @@ class: title-slide
 ```{r, echo=FALSE}
 p(rmarkdown::metadata$author)
 p("Statistisches Amt des Kantons Zürich")
+p("https://github.com/statistikZH/co2sensoren")
 p(rmarkdown::metadata$date)
 ```
 ]
@@ -115,8 +116,9 @@ countdown(minutes = 15)
 # Danke
 
 - Für's Zuschauen.
+- Für die Zusammenarbeit am Projekt: https://github.com/statistikZH/co2sensoren
 - Für die R packages [{xaringan}](https://github.com/yihui/xaringan) und [{xaringanthemer}](https://github.com/gadenbuie/xaringanthemer) mit welchen die Folien geschrieben wurden.
 - Für die Arbeit der Autoren an TidyBlocks: https://tidyblocks.tech/authors/
-- Quellcode der Folien und eine [PDF Version]() sind im GitHub Repository [statistikZH/co2sensoren](https://github.com/statistikZH/rstatsZH) verfügbar.
+- Quellcode der Folien und eine PDF Version sind im GitHub Repository [https://github.com/statistikZH/co2sensoren](https://github.com/statistikZH/co2sensoren) verfügbar
 
 
