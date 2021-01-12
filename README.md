@@ -19,7 +19,7 @@ Indem Schülerinnen und Schüler CO2-Sensoren selber bauen, programmieren, Daten
 ![Fenster lüften!](https://github.com/statistikZH/co2sensoren/blob/main/media/co2ampel.jpg)
 Bild: Prototyp eines CO2-Sensors (v.l.n.r) Der Sensor leuchtet grün, alles ok. Orange, bitte bald lüften. Rot, bitte sofort lüften.
 
-Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Datennutzung (Stichwort [data literacy](https://www.data-literacy.ch/)), Programmierung und Statistik näherzubringen.
+Diese Do-It-Yourself-Methode kann aber auch genutzt werden, um den Schülerinnen und Schülern praxisnahe Anwendungen in Datenkompetenz ([siehe](https://www.zh.ch/de/politik-staat/statistik-daten/datenwerkstatt/data-und-statistical-literacy.html)), Programmierung und Statistik näherzubringen.
 
 Beispielsweise kann man die Daten bei offenem und geschlossenem Fenster messen und danach statistische Hypothesen testen (wie im klassichen Mathematikunterricht). Statistik wird dadurch fassbar. Auch kann man mit einfachen Programmieranwendungen die Lichter zum Blinken bringen und damit einen realen Effekt programmieren.
 
@@ -35,43 +35,30 @@ Das Projekt richtet sich an Schulen und Lehrpersonen im Kanton Zürich, die den 
 
 Schulen bzw. Lehrpersonen werden bei der Beschaffung der Hardware für selbstgebaute CO2-Sensoren sowie bei Herstellung und Einsatz dieser Sensoren unterstützt. Dies umfasst folgende Angebote:
 
-- **Hardware-Kits**, (Richtpreise siehe unten)
-- **Online-Ressourcen zu Bau und Betrieb**
-- **Schulung von Lehrpersonen zu Bau und Betrieb**
-- **Begleitung der Schulen/Klassen beim Bau der Sensoren**
-- **Pädagogische Ressourcen (Materialien, Schulung, Beratung) zu _data and statististical literacy_**, 
+- **Hardware-Kits:** ![Die Bestellung erfolgt über den Verein Make.Human.Technology.](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) 
+- **Online-Ressourcen zu Bau und Betrieb:** ![Die Dokumentation finden Sie auf der Seite des Vereins Make.Human.Technology.](https://makehumantechnology.org/dokumentation/co2-ampel/)
+- **Begleitung der Schulen/Klassen beim Bau der Sensoren** sowie **Schulung von Lehrpersonen zu Bau und Betrieb:** ![Die Buchung erfolgt über den Verein Make.Human.Technology.](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) 
+- **Pädagogische Ressourcen zu _data and statististical literacy_**: ![Frei zugängliche Online-Ressourcen für Lehrpersonen finden Sie auf der Seite des Statistischen Amts.](https://www.zh.ch/de/politik-staat/statistik-daten/datenwerkstatt/data-und-statistical-literacy.html) Für kostenlose Schulungen können Sie ![uns direkt kontaktieren](christian.ruiz@statistik.ji.zh.ch).
 
-Die Online-Ressourcen sowie die Angebote im Bereich der _data and statistical literacy_ werden für die Schulen voraussichtlich kostenlos sein. Die Hardware-Kits sowie die Angebote im Bereich der Schulung und Begleitung sind kostenpflichtig. Die anfallenden Kosten für die kostenpflichtigen Angebote werden transparent ausgewiesen.Die anfallenden Kosten für die Angebote werden transparent ausgewiesen.
+Die Hardware-Kits sowie die Angebote des Vereins Make.Human.Technology für Schulung und Begleitung sind kostenpflichtig und auf ![deren Seite ausgewiesen](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) .
 
-### Vorgehen
+### Datennutzungskonzept und Vernetzte Lösung
 
-1. **Interessensbekundung**  
-Schulen und Lehrpersonen melden ihr Interesse über das <a href="https://forms.gle/ZJn22fiJdYXvhJGA7" rel="nofollow" target="_blank">Online-Formular</a> an.  
-Diese Angaben dienen der detaillierten Ausarbeitung der Angebote sowie der zeitlichen Planung.
+- Die Sensoren können sowohl als **_stand-alone_** verwenden werden, oder in einer vernetzten Lösung, mit der die Daten auf einen **zentralen Server** gespeichert werden. 
 
-2. **Bestellung**  
-Die interessierten Schulen bzw. Lehrpersonen werden aus erster Hand über die detaillierten Angebote informiert und können diese bestellen.
-
-3. **Lieferung und Nutzung der Angebote**  
-Die Lieferung der Hardware-Kits und die Nutzung der Angebote sind für die ersten Schulen/Klassen ab Dezember geplant.
-
-Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine sind abhängig von der Nachfrage nach den einzelnen Angeboten.
-
-### Datennutzungskonzept (Auszug)
-
-- Die Sensoren übermitteln die Daten auf einem gesicherten Weg über WiFi oder LoRa an einen **zentralen Server**. 
+- Die Schulen bzw. Lehrpersonen sowie Schülerinnen und Schüler können ihre eigenen Daten sowie die freigegebenen Daten anderer Schulen über den zentralen Server beziehen und damit Datenauswertungen und Visualisierungen unternehmen.
 
 - Die auf dem Server gespeicherten Daten und Metadaten sind **anonymisiert**, so dass einzelne Schulen nicht identifiziert werden können.
 
-- Die Schulen sind **Dateneigentümer** der Daten "ihrer" Sensoren. Sie können ihre Daten auf dem Server löschen lassen. Sie können ihre anonymisierten Daten zur Verwendung auf kantonaler Ebene freigeben (Opt-In).
+- Die Schulen sind **Dateneigentümer** der Daten "ihrer" Sensoren. Sie können ihre Daten auf dem Server löschen lassen. Sie können ihre anonymisierten Daten auf Kantonsebene **aggregiert** zur öffentlichen Verwendung freigeben (Opt-In). Letztere ermöglicht die Berechnung z.B. von Durchschnittswerten für einen Kanton, sowie kantonale Vergleiche. Es ermöglicht aber keine Vergleiche zwischen Schulen oder Gemeinden.
 
-- Die Schulen bzw. Lehrpersonen sowie Schülerinnen und Schüler können ihre eigenen Daten sowie die freigegebenen Daten anderer Schulen über den zentralen Server beziehen und damit Datenauswertungen und Visualisierungen unternehmen.
+
 
 [Das gesamte Datennutzungskonzept ist unter diesem Link verfügbar](https://github.com/statistikZH/co2sensoren/raw/main/projektdateien/Datennutzungskonzept_CO2vsCO19_v1_0.pdf).
 
 ## Kostenübersicht und Alternativen
 
-### Geplante Kostenübersicht über vorgeschlagene Lösung für Schulen. (Lösung nach Markus Leutwyler vom Verein Make.Human.Technology)
+### Geplante Kostenübersicht, falls Sie die Einzelteile selbst bestellen möchten: (Lösung nach Verein Make.Human.Technology)
 
 
 
@@ -90,7 +77,7 @@ Die definitiven Preise sowie die konkreten Lieferfristen und Schulungstermine si
 
 Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich. 
 
-Die angezeigten Preise sind die günstigsten Bezüge, die wir momentan gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Diese Lösung kann auch flexibel mit anderen Teilen gebastelt werden. Alternativen dazu finden Sie auch hier:
+Die angezeigten Preise sind die günstigsten Bezüge, die wir gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Diese Lösung kann auch flexibel mit anderen Teilen gebastelt werden. Alternativen dazu finden Sie auch hier:
 
 - https://www.umwelt-campus.de/forschung/projekte/iot-werkstatt/ideen-zur-corona-krise
 - https://sbamueller.wordpress.com/2020/09/02/co2-messen-mit-dem-octopus/
@@ -125,7 +112,7 @@ Das sind die genauesten Sensoren, die biochemisch, und somit sehr exakt, das CO2
   
 Falls Sie keine Sensoren selbst bauen möchten, können Sie in der folgenden Liste nach betriebsbereiten Geräten schauen. Folgend werden zunächst geeignete Anbieter aufgelistet. Geeignet bedeutet für uns, dass NDIR-Sensoren verwendet werden und die Preise relativ günstig sind. Weiter unten ist dann eine schwarze Liste mit Anbietern, die entweder die schlechteren MOX-Sensoren verwenden, oder die keine Angaben zu den Sensoren schreiben (und wir somit MOX vermuten), oder die viel teurer sind.
 
-Die angezeigten Geräte und Preise sind diejenigen, wie wir momentan gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Wir haben keines der folgenden Geräte selbst getestet. 
+Die angezeigten Geräte und Preise sind diejenigen, wie wir gefunden haben. Wir werden aber von keinem Hersteller oder Händler finanziert und haben auch keine konkrete Kaufempfehlung. Wir haben keines der folgenden Geräte selbst getestet. 
 
 ### Gute Liste von betriebsbereiten CO2-Geräten
 

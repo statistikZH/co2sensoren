@@ -85,7 +85,7 @@ void loop()
   
   if (airSensor.dataAvailable())
   {
-        StaticJsonBuffer<200> jsonBuffer;
+    StaticJsonBuffer<200> jsonBuffer;
 
     JsonObject& root = jsonBuffer.createObject();
     root["sensor"] = "S00001";
