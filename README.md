@@ -38,7 +38,7 @@ Schulen bzw. Lehrpersonen werden bei der Beschaffung der Hardware für selbstgeb
 - **Hardware-Kits:** [Die Bestellung erfolgt über den Verein Make.Human.Technology.](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) 
 - **Online-Ressourcen zu Bau und Betrieb:** [Die Dokumentation finden Sie auf der Seite des Vereins Make.Human.Technology.](https://makehumantechnology.org/dokumentation/co2-ampel/)
 - **Begleitung der Schulen/Klassen beim Bau der Sensoren** sowie **Schulung von Lehrpersonen zu Bau und Betrieb:** [Die Buchung erfolgt über den Verein Make.Human.Technology.](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) 
-- **Pädagogische Ressourcen zu _Daten- und Statistikkompetenz_**: [Frei zugängliche Online-Ressourcen für Lehrpersonen finden Sie auf der Seite des Statistischen Amts.](https://www.zh.ch/de/politik-staat/statistik-daten/datenwerkstatt/data-und-statistical-literacy.html) Für kostenlose Schulungen können Sie [uns direkt kontaktieren](christian.ruiz@statistik.ji.zh.ch).
+- **Pädagogische Ressourcen zu _Daten- und Statistikkompetenz_**: [Frei zugängliche Online-Ressourcen für Lehrpersonen finden Sie auf der Seite des Statistischen Amts.](https://www.zh.ch/de/politik-staat/statistik-daten/datenwerkstatt/data-und-statistical-literacy.html) Für kostenlose Schulungen können Sie [uns direkt kontaktieren](mailto:christian.ruiz@statistik.ji.zh.ch).
 
 Die Hardware-Kits sowie die Angebote des Vereins Make.Human.Technology für Schulung und Begleitung sind kostenpflichtig und auf [deren Seite ausgewiesen](https://makehumantechnology.org/produkte/co2-ampel-fuer-schulen/) .
 
