@@ -64,16 +64,17 @@ Die Hardware-Kits sowie die Angebote des Vereins Make.Human.Technology für Schu
 
 |                          Budgetposten                          | Kosten (CHF) |     
 |:--------------------------------------------------------------:|:------------:|
-| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.04 (Versand: 0.35/Stk. bei 100 Stk.)    | 
+| Espressif ESP32 (Mit WiFi und Bluetooth)                             | $3.45    | 
 |Sensirion SCD30 Sensor                                          | CHF 34.66         | 
-| Pin Jumper, Pin Stiftleisten (Inklusive Lieferung deshalb Korrektur) | CHF 2            |
-| Netzteil                                                | CHF 1.95       | 
-| BME680 Sensor |$5.40 (Versand: 0.05/Stk. bei 100 Stk.) |   
-| LED-Ring  | CHF 6.86      |      
+| Pin Jumper, Pin Stiftleisten  | CHF 2            |
+| Netzteil                                                | CHF 5.21     | 
+| BME680 Sensor |$9.45  |   
+| LED-Ring  | CHF 6.86      |   
+| USB-Kabel  | CHF 2.85      |  
 | Bridge boards | CHF 0.55      |              
 | Selbstbau-Hülle aus 3D-Drucker | CHF 8     |     
 | Fakultativ: LoRa | (CHF 20)      |   
-| TOTAL                                                          | 62.86 (82.86)     |                                                                                          |
+| TOTAL                                                          | 73.03 (93.03)     |                                                                                          |
 
 Annahme USD=CHF; LoRa als Alternative zu WiFi wenn nicht möglich. 
 
